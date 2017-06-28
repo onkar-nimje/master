@@ -18,11 +18,11 @@ public class NewTest {
 	
 	@BeforeTest
 	  public void beforeTest() throws MalformedURLException {
-		//driver = new FirefoxDriver();
+		driver = new FirefoxDriver();
 		//System.setProperty("webdriver.chrome.driver","D:\\workspaces\\chromedriver.exe");
 		//driver=new ChromeDriver();
 		
-		
+		/*
 		//FOR SELENIUM GRID
 		String nodeURL = "http://192.168.169.172:5566/wd/hub";
 		//String nodeURL = "http://192.168.169.183:5566/wd/hub";
@@ -33,7 +33,7 @@ public class NewTest {
 		//capabilities.setBrowserName("firefox");
 		capabilities.setPlatform(Platform.VISTA);
 		driver = new RemoteWebDriver(new URL(nodeURL), capabilities);
-		
+		*/
 		
 	  }
   @Test

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="2" parallel="tests">
+
+  <test name="Chrome-es_US-Login Logout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sCountry" value="es_US"></parameter>
+    <classes>
+      <class name="executionEngine.LoginLogout"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+
+</suite> <!-- Suite -->

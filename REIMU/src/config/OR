@@ -1,0 +1,124 @@
+txt_email=loginInput
+txt_password=passwordInput
+btn_login=login-btn
+mainMenu=userDropDown
+lookSearchBox=//input[@id='look-list-search-input']
+lookSearchBtn=//*[@id='look-list-search-btn']//span
+btn_Preview=look-snippet-modal-btn
+frameName_PreviewModal=iframeModal
+cuePoint_OOSProduct=//i[@data-reactid='.0.0.0.0.0.1:$1.0.0']
+btn_AddToCart_PreviewPage=button
+bx_skuColor=select-color
+OOSPrd_OOSSkuColor=//select[@id='select-color']//option[3]
+bx_skuSize=select-size
+skuSize=//select[@id='select-size']//option[2]
+cuePoint_OOSSku=//i[@data-reactid='.0.0.0.0.0.1:$0.0.0']
+AvailableProd_OOSSkuColor=//select[@id='select-color']//option[3]
+AvailableProd_AvailableSkuColor=//select[@id='select-color']//option[2]
+bx_SkuQTY=select-quantity
+skuQTY=//select[@id='select-quantity']//option[3]
+btnMoreDetail_OOSProd=//*[text()='Selenium test Product-OOS']//parent::div//following-sibling::div//button//span[contains(text(),'More Details')]
+btn_Close_ProdDetailPage=button
+btn_AddToCart_ProdDeatilPage=//button//span[text()='Add to cart']
+btnMoreDetail_OOSSku=//*[text()='Selenium test Product-1SkuOOS']//parent::div//following-sibling::div//button//span[contains(text(),'More Details')]
+headerMenu=userDropDown
+lnk_AddLook=li
+bx_UpdateLookTitle=update-look-title
+btnAddLookImagePlusSign=//button[@id='look-add-image-btn']
+bx_LookImageUrl=//input[@id='update-look-image-field']
+btn_Close_UpdateLookImage=//div[@class='modal-lg modal-dialog']//div//div[@class='modal-footer']//button[@id='uptate-look-image-cancel-button']
+newAnchorPointLocation=look-design-image-container
+newAnchorTitle=looks-anchor-point-edit-anchorTitle
+btn_NewAnchorAddProd=look-anchor-add-product-btn
+searchFieldPrdInNewAnchor=//input[@id='look-product-modal-search-input']
+searchSignNewAnchor=//span[@class='glyphicon glyphicon-search']
+searchProd1=//small[text()='Selenium test Product-1SkuOOS']
+btn_NewAnchorAddProds=look-product-modal-save-btn
+btn_Back_NewAnchor=look-anchor-back-btn
+searchProd2=//small[text()='Selenium test Product-OOS']
+imgOnPreview=//img[@data-reactid='.0.0.0.0.0.0']
+btn_CloseSign_PreviewWindow=//button[@class='close']
+btnLookSnippet=button
+snippetTextSection=pre
+btn_EditAnchor=//div[@id='look-anchor-point-list']//div[@class='row'][1]//button[@class='look-edit-button btn btn-primary pull-right']
+btn_RemoveAnchor=//button[@id='look-anchor-remove-btn']
+btn_OK=//div[@class='modal-dialog']/div//div[@class='modal-footer']//button[text()='Ok']
+btn_btnToolLook=//button[@id='2']
+lnk_DeleteLook=//a[contains(text(),'Delete Look')]
+btn_OKDeleteLook=//button[@id='look-delete-modal-ok-btn']
+btn_Gridiron=//a[text()='Gridiron']
+btn_Candid=//a[text()='Candid']
+btn_Cancel=//div[@class='modal-dialog']/div//div[@class='modal-footer']//button[text()='Cancel']
+btn_AddPrdPlusSign=//span[@class='glyphicon glyphicon-plus']
+btn_RemoveProductSigntemp2=//div[@class='ibox-content product-box add-product-box'][1]//button[@id='look-anchor-remove-product-btn']
+btnCloseSign=button
+btn_AddToBag=//button//span[contains(text(),'Add to bag')]
+btn_Delete_LookProduct=//button[@id='look-anchor-remove-product-confirm-btn']
+videoSearchBox=//input[@id='video-list-search-input']
+videoSearchBtn=//button[@id='video-list-search-btn']
+btnTemplateDoldrums=//a[text()='Doldrums']
+btnTemplateEasterly=//a[text()='Easterly']
+btnTemplateSoutherly=//a[text()='Southerly']
+btnPreviewVideo=//button[@id='video-update-preview-btn']
+btn_PayVideoDoldrums=//div[@id='player']//button//span[text()='Play Video']
+btn_Shop=//span[text()='Shop']
+imagePrd_OOSProd=//div[@data-reactid='.0.0.1.0.0.0.0:$0']//div
+btnPlusSignOnProduct_OOSProd=//div[@data-reactid='.0.0.1.0.0.0.0:$0.1']//span
+alermsgOOS=//div[@class='alert alert-warning']
+btnClose=//button[text()='Close']
+imagePrd_OOSSku=//div[@data-reactid='.0.0.1.0.0.0.0:$1']//div
+btnPlusSignOnProduct_OOSSku=//div[@data-reactid='.0.0.1.0.0.0.0:$1.1']//span
+btn_Detail_OOSProd=//*[text()='Selenium test Product-OOS']//parent::div//button//span[contains(text(),'DETAIL')]
+btn_Detail_OOSSku=//*[text()='Selenium test Product-1SkuOOS']//parent::div//button//span[contains(text(),'DETAIL')]
+btn_Details_OOSProd=//*[text()='Selenium test Product-OOS']//parent::div//button//span[contains(text(),'Details')]
+btn_Details_OOSSku=//*[text()='Selenium test Product-1SkuOOS']//parent::div//button//span[contains(text(),'Details')]
+bx_VideoFileNamefield=//input[@id='new-video-filename']
+bx_VideoUrl=//input[@id='new-video-url']
+bx_Keywords=//input[@id='new-video-keywords']
+lnk_Anchorat0Position=//a[contains(text(),'Anchor at 0 Seconds')]
+bx_AnchorName=//input[@id='new-video-title']
+bx_TitleImage=//input[@id='new-video-image']
+bx_VideoDescription=//input[@id='new-video-description']
+btnSaveChanges=//button[@id='new-video-btn-submit']
+btn_EditAnchorLook1stAnchor=//p[starts-with(text(),'1stAnchor')]//parent::div//parent::div//following-sibling::div//button[contains(text(),'Edit Anchor')]
+btn_EditAnchor1=//p[starts-with(text(),'0th Anchor')]//parent::div//following-sibling::div//button[contains(text(),'Edit Anchor')]
+btnAddProduct=//button[@id='video-update-product-add-btn']//span
+bx_Search_AddProductVideo=//input[@id='video-update-search-product-input']
+btn_Search_AddProdVideo=//button[@id='video-update-search-product-btn']
+btn_AddProducts_AddProdVideo=//button[@id='video-update-add-procucts-confirm-btn']
+btn_OK_AddProdVideo=//button[@id='video-update-product-add-btn']//parent::div//button[text()='Ok']
+btnPlayVideo_UpdatevideoPage=//div[@id='video-player-component']//button//span[text()='Play Video']
+btn_AddAnchor_UpdateVideo=//button[@id='video-update-add-anchor-btn']
+bx_Title_AnchorTitle=//input[@label='Title']
+bx_TitleImageURL=//input[@label='Title Image URL']
+bx_Description_AnchorDescription=//input[@label='Description']
+btn_Save_NewVideoAnchor=//button[text()='Save']
+bx_ToolTip=//input[@label='ToolTip']
+btn_EditAnchor2=//p[starts-with(text(),'30th Anchor')]//parent::div//following-sibling::div//button[contains(text(),'Edit Anchor')]
+searchProd3=//small[text()='Essie Skirt']
+searchProd4=//small[text()='KATERINA BLOUSE']
+searchProd5=//small[text()='Marilyn Jacket']
+searchProd6=//small[text()='Sabine Blouse']
+btnVideoSnippet=button
+btn_OKIgetIt=//button[contains(text(),'Ok, I get it!')]
+btn_btnToolVideo=//button[@class='dropdown-toggle btn btn-default']
+lnk_DeleteVideo=//a[contains(text(),'Delete Video')]
+btn_OK_DeleteVideo=//button[text()='Ok']
+btn_SelectTemplate=//button[@id='template-dropdown']
+btn_SignUpLoginPage=//button[@id='sign-up-btn']
+bx_SignUpFirstName=//input[@id='first-name-input']
+bx_SignUpLastName=//input[@id='last-name-input']
+bx_SignUpEmail=//input[@id='email-input']
+bx_SignUpPassword=//input[@id='password-input']
+bx_SignUpConfirmPass=//input[@id='confirm-password-input']
+bx_SignUpOrganizationName=//input[@id='org-name-input']
+bx_SignUpOrganizationPhone=//input[@id='org-phone-input']
+bx_SignUpOrganizationURL=//input[@id='org-url-input']
+bx_SignUpOrganizationID=//input[@id='org-id-input']
+btn_SignUpSignUpPage=//button[@id='sign-up-btn']
+chk_ExistingOrganization=//input[@type='checkbox']
+login_link=//span[text()='Faça seu login']
+login_Button=//a[text()="FAZER LOGIN"]
+email=formLogin-query 
+password=formLogin-password 
+=

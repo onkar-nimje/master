@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="sCountry" value="es_US"/>
+  <parameter name="sBrowser" value="Firefox"/>
+  <test name="Chrome-es_US-Login Logout(failed)" parallel="tests">
+    <parameter name="sCountry" value="es_US"/>
+    <parameter name="sBrowser" value="Firefox"/>
+    <classes>
+      <class name="executionEngine.LoginLogout">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Login" invocation-numbers="0"/>
+          <include name="deleteSkuFromProduct"/>
+          <include name="setUp"/>
+          <include name="gotoCatalogPage"/>
+          <include name="uploadSkuFile"/>
+          <include name="uploadProductFile"/>
+        </methods>
+      </class> <!-- executionEngine.LoginLogout -->
+    </classes>
+  </test> <!-- Chrome-es_US-Login Logout(failed) -->
+</suite> <!-- Failed suite [Suite] -->
