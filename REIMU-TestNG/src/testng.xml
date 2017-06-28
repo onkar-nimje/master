@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="2" parallel="tests">
+ <!-- 
+  <test name="Catalog">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sEmail" value="q_demo@objectedge.com"></parameter>
+   <parameter name="sPassword" value="ObjectEdge$10"></parameter>
+   <parameter name="sEmail" value="demo@objectedge.com"></parameter>
+   <parameter name="sPassword" value="Abc123!"></parameter> 
+   <parameter name="sPrdName" value="delete more than one product"></parameter>
+   <parameter name="sPrdID" value="PrdDel01"></parameter>
+   <parameter name="sSkuName" value="Selenium Test Sku 2"></parameter>
+   <parameter name="sSkuID" value="DeleteSku2"></parameter>
+   <parameter name="sBlankPrdName" value="Existing product"></parameter>
+   <parameter name="sBlankPrdID" value="prdBlank001"></parameter>
+   <parameter name="sBlankSkuName" value="Selenium OOS2"></parameter>
+   <parameter name="sBlankSkuID" value="skublank001"></parameter>
+   <parameter name="sExistPrdName" value="Existing product"></parameter>
+   <parameter name="sExistPrdID" value="prdExist001"></parameter>
+   <parameter name="sExistSkuName" value="Selenium OOS2"></parameter>
+   <parameter name="sExistSkuID" value="skuExist002"></parameter>
+   <parameter name="sCatID" value="cat541337255"></parameter>
+   <parameter name="sCatName" value="PERFUMES"></parameter>
+   <parameter name="sCatURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPrdDesc" value="This is Short desctiption"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-good-girl-eau-de-parfum-feminino-541337255-541337280"></parameter>
+   <parameter name="sPrdLargeImageURL" value="http://largeimg.lojasrenner.com.br/images/variant/large/541337255_z_4.jpg"></parameter>
+   <parameter name="sPrdSmallImageURL" value="http://largeimg.lojasrenner.com.br/images/variant/large/541337255_z_1.jpg"></parameter>
+   <parameter name="sPrdThumbnailImageURL" value="http://largeimg.lojasrenner.com.br/images/variant/large/541337255_z_2.jpg"></parameter>
+   <parameter name="sCurrency" value="BRT"></parameter>
+   <parameter name="sColor" value="Blue"></parameter>
+   <parameter name="sSize" value="80ml"></parameter>
+   <parameter name="sInventory" value="12"></parameter>
+   <parameter name="sSkuDesc" value="Sku description"></parameter>
+   <parameter name="sListPrice" value="480"></parameter>
+   <parameter name="sSalePrice" value="499"></parameter>  
+    <classes>
+    <class name="testCase.Catalog"/>
+    </classes>
+  </test> 
+ 
+ -->
+   
+  <test name="Existing-Look-Template1-Redirect">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sLookURL" value="http://qamediacom.objectedge.com/admin/#/updatelook?lookId=589576a22d0e4f8bbbb5e681"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sLookName" value="Selenium Test Look-Temp1-Redire"></parameter>  
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+    <classes>
+     <class name="testCase.Existing_Look_Template1"/>
+    </classes>
+  </test> 
+
+  <!--  
+   <test name="LOOK-TEMPLATE2-Redirect">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sLookURL" value="http://qamediacom.objectedge.com/admin/#/updatelook?lookId=5895791a2d0e4f8bbbb5e68f"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sLookName" value="Selenium Test Look-Temp2-Redire"></parameter>  
+   <parameter name="sOOSPrdName" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sAvailablePrdName" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+    <classes>
+     <class name="testCase.Existing_Look_Template2"/>
+    </classes>
+  </test> 
+ -->
+     
+<!-- 
+     
+   <test name="SNIPPET">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sEmail" value="q_demo@objectedge.com"></parameter>
+   <parameter name="sPassword" value="ObjectEdge$10"></parameter>
+   <parameter name="sLookURL-Template1" value="http://qamediacom.objectedge.com/admin/#/updatelook?lookId=589576a22d0e4f8bbbb5e681"></parameter>
+   <parameter name="sLookURL-Template2" value="http://qamediacom.objectedge.com/admin/#/updatelook?lookId=5895791a2d0e4f8bbbb5e68f"></parameter>
+   <parameter name="sVideoURL" value="http://qamediacom.objectedge.com/admin/#/uploadvideo?videoId=58d0d3282d0e298988fee0ef"></parameter>
+   <parameter name="sExistLookName-Template1" value="Selenium Test Look - Template1 -Redirect"></parameter>
+   <parameter name="sExistLookName-Template2" value="Selenium Test Look - Template2 -Redirect"></parameter>
+   <parameter name="sExistVideoName" value="Selenium Test video- Redirect"></parameter>
+    <classes>
+     <class name="testCase.Snippet"/>
+    </classes>
+  </test> 
+   
+    
+    -->  
+    <!--  
+   <test name="NewLook_Template2">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sNewLookName" value="SeleniumTest-Temp2-New Look"></parameter>
+   <parameter name="sLookImageUrl" value="http://static3.netshoes.net/resources/netshoes/banners/blacknovember/desktop/fulls/full1_170324.jpg"></parameter>
+   <parameter name="sAnchorName1" value="1stAnchor"></parameter>
+   <parameter name="sAnchorName2" value="2ndAnchor"></parameter>
+   <parameter name="sPrd1" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sPrd2" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+   <parameter name="sDeleteLookmsg" value="No Looks found!"></parameter>
+    <classes>
+     <class name="testCase.NewLook_Template2"/>
+    </classes>
+  </test> 
+-->
+  <!-- 
+    <test name="NewLook_Template1">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>   
+   <parameter name="sNewLookName" value="SeleniumTest-Temp1-New Look"></parameter>
+   <parameter name="sLookImageUrl" value="http://www.lionelstore.com/c.445393/shopflow-1-05-0/img/siteimages/CategoryBannerAds/DisneyIntro-CategoryAd.jpg"></parameter> 
+   <parameter name="sAnchorName1" value="1stAnchor"></parameter>
+   <parameter name="sAnchorName2" value="2ndAnchor"></parameter>  
+   <parameter name="sPrd1" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sPrd2" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+   <parameter name="sDeleteLookmsg" value="No Looks found!"></parameter>
+    <classes>
+     <class name="testCase.NewLook_Template1"/>
+    </classes>
+  </test> 
+ 
+ 
+   
+  <test name="Existing-Video-Easterly-Redirect">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sVideoURL" value="http://qamediacom.objectedge.com/admin/#/uploadvideo?videoId=58d0d3282d0e298988fee0ef"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sExistVideo" value="Selenium Test video- Redirect"></parameter>
+   <parameter name="sTemplateName" value="Easterly"></parameter>
+   <parameter name="sOOSPrdName" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sAvailablePrdName" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sButtonName" value="DETAIL"></parameter>
+   <parameter name="sPrdName" value="Selenium test Product"></parameter>
+   <parameter name="sPrdID" value="ProdSelTest13122016"></parameter>
+   <parameter name="sSkuName" value="Selenium Test Sku 1"></parameter>
+   <parameter name="sSkuID" value="SkuIdSelTest13122016-1"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+    <classes>
+     <class name="testCase.Existing_Video_EasterlySoutherly"/>
+    </classes>
+  </test>
+  -->
+  <!-- 
+   <test name="Existing-Video-Southerly-Redirect">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sVideoURL" value="http://qamediacom.objectedge.com/admin/#/uploadvideo?videoId=58d0d3282d0e298988fee0ef"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sExistVideo" value="Selenium Test video- Redirect"></parameter>
+   <parameter name="sTemplateName" value="Southerly"></parameter>
+   <parameter name="sOOSPrdName" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sAvailablePrdName" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sButtonName" value="Details"></parameter>
+   <parameter name="sPrdName" value="Selenium test Product"></parameter>
+   <parameter name="sPrdID" value="ProdSelTest13122016"></parameter>
+   <parameter name="sSkuName" value="Selenium Test Sku 1"></parameter>
+   <parameter name="sSkuID" value="SkuIdSelTest13122016-1"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+    <classes>
+     <class name="testCase.Existing_Video_EasterlySoutherly"/>
+    </classes>
+  </test>
+   -->
+ <!--
+   <test name="Existing-VideoTemplate-Doldrums-Redirect">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sVideoURL" value="http://qamediacom.objectedge.com/admin/#/uploadvideo?videoId=58d0d3282d0e298988fee0ef"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sExistVideo" value="Selenium Test video- Redirect"></parameter>
+   <parameter name="sTemplateName" value="Doldrums"></parameter>
+   <parameter name="sOOSPrdName" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sAvailablePrdName" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sButtonName" value="Details"></parameter>
+   <parameter name="sPrdName" value="Selenium test Product"></parameter>
+   <parameter name="sPrdID" value="ProdSelTest13122016"></parameter>
+   <parameter name="sSkuName" value="Selenium Test Sku 1"></parameter>
+   <parameter name="sSkuID" value="SkuIdSelTest13122016-1"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+    <classes>
+     <class name="testCase.Existing_Video_Doldrums"/>
+    </classes>
+  </test>
+ -->
+
+<!-- 
+   <test name="New Video Creation">
+   <parameter name="sBrowser" value="Firefox"></parameter>  
+   <parameter name="sEmail" value="onkar.nimje@yopmail.com"></parameter>
+   <parameter name="sPassword" value="Abcd123!"></parameter>
+   <parameter name="sVideoURL" value="https://www.youtube.com/watch?v=n4L-bnYBGpM"></parameter>
+   <parameter name="sVideoName" value="Selenium Test NEW video"></parameter>
+   <parameter name="sKeywords" value="video keywords"></parameter>
+   <parameter name="sAnchorname1" value="0th Anchor"></parameter>
+   <parameter name="sAnchorname2" value="30th Anchor"></parameter>
+   <parameter name="sTitleImage" value="http://cdn.shopify.com/s/files/1/0791/7899/t/31/assets/logo.png?11427213951781354454"></parameter>
+   <parameter name="sVideoDescription" value="Video Description"></parameter>
+   <parameter name="sOOSPrdName" value="Selenium test Product-OOS"></parameter>
+   <parameter name="sAvailablePrdName" value="Selenium test Product-1SkuOOS"></parameter>
+   <parameter name="sProduct3" value="Essie Skirt"></parameter>
+   <parameter name="sProduct4" value="KATERINA BLOUSE"></parameter>
+   <parameter name="sProduct5" value="Marilyn Jacket"></parameter>
+   <parameter name="sProduct6" value="Sabine Blouse"></parameter>
+   <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"></parameter>
+   <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"></parameter>
+   <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"></parameter>
+   <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"></parameter>
+    <classes>
+     <class name="testCase.NewVideo"/>
+    </classes>
+  </test>
+ -->
+</suite> <!-- Suite -->

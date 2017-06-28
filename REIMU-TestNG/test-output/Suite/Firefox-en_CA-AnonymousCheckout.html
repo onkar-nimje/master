@@ -1,0 +1,107 @@
+<html>
+<head>
+<title>TestNG:  Firefox-en_CA-AnonymousCheckout</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Firefox-en_CA-AnonymousCheckout</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jan 20 20:17:00 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>300 seconds (300399 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='TestNG.AnonymousCheckout.newCheckoutDiffBillShipAddr()'><b>newCheckoutDiffBillShipAddr</b><br>Test class: TestNG.AnonymousCheckout<br>Parameters: http://www-ultimateresetuat.beachbody.com/shop/ca/, d/ultimate-reset-soothe-URSoothe, en_CA, objecd234fge@gmail.com, 12345, Printer-friendly version of this receipt, Your order number is:, 1, 1, OnkarS1, NimjeS1, 1111111111, 9450 137 Ave NW, EdmontonMumai, AB, T5E 6C2, 1, OnkarB1, NimjeB1, 4444444444444448, 2, 3, 111, 1335 chemin Georges, St Felix De Valois1, QC, J0K 2M0, 3333333333, 5, 3, 16<br/>
+<a href="#Output-445644064" onClick='toggleBox("Output-445644064", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-445644064" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-445644064">
+Expected msg :Your order number is: Displaying on confirmation page.<br/>
+Order Number :STORE_20260025<br/>
+Expected msg :Printer-friendly version of this receipt Displaying on confirmation page.<br/>
+</div>
+</td>
+<td></td>
+<td>124</td>
+<td>TestNG.AnonymousCheckout@3702c2f1</td></tr>
+<tr>
+<td title='TestNG.AnonymousCheckout.newCheckoutSameBillShipAddr()'><b>newCheckoutSameBillShipAddr</b><br>Test class: TestNG.AnonymousCheckout<br>Parameters: http://www-ultimateresetuat.beachbody.com/shop/ca/, d/ultimate-reset-soothe-URSoothe, en_CA, objecd234fge@gmail.com, 12345, Printer-friendly version of this receipt, Your order number is:, 1, 1, OnkarS1, NimjeS1, 1111111111, 9450 137 Ave NW, EdmontonMumai, AB, T5E 6C2, 1, OnkarB1, NimjeB1, 4444444444444448, 2, 3, 111, 5, 3, 16<br/>
+<a href="#Output-332374270" onClick='toggleBox("Output-332374270", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-332374270" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-332374270">
+Expected msg :Your order number is: Displaying on confirmation page.<br/>
+Order Number :STORE_20260023<br/>
+Expected msg :Printer-friendly version of this receipt Displaying on confirmation page.<br/>
+</div>
+</td>
+<td></td>
+<td>173</td>
+<td>TestNG.AnonymousCheckout@3702c2f1</td></tr>
+</table><p>
+</body>
+</html>

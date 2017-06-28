@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="sPassword" value="Abcd123!"/>
+  <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"/>
+  <parameter name="sAnchorName2" value="2ndAnchor"/>
+  <parameter name="sAnchorName1" value="1stAnchor"/>
+  <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"/>
+  <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"/>
+  <parameter name="sEmail" value="onkar.nimje@yopmail.com"/>
+  <parameter name="sNewLookName" value="SeleniumTest-Temp2-New Look"/>
+  <parameter name="sDeleteLookmsg" value="No Looks found!"/>
+  <parameter name="sPrd2" value="Selenium test Product-OOS"/>
+  <parameter name="sLookImageUrl" value="http://static3.netshoes.net/resources/netshoes/banners/blacknovember/desktop/fulls/full1_170324.jpg"/>
+  <parameter name="sBrowser" value="Firefox"/>
+  <parameter name="sPrd1" value="Selenium test Product-1SkuOOS"/>
+  <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"/>
+  <test name="NewLook_Template2(failed)" parallel="tests">
+    <parameter name="sSkuOOSmsg" value="The selected combination of color and/or size is currently unavailable, please select another"/>
+    <parameter name="sPrOOSmsg" value="Product is out of stock, you will be directed to the category page"/>
+    <parameter name="sEmail" value="onkar.nimje@yopmail.com"/>
+    <parameter name="sNewLookName" value="SeleniumTest-Temp2-New Look"/>
+    <parameter name="sDeleteLookmsg" value="No Looks found!"/>
+    <parameter name="sPassword" value="Abcd123!"/>
+    <parameter name="sPDPURL" value="http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275"/>
+    <parameter name="sPrd2" value="Selenium test Product-OOS"/>
+    <parameter name="sAnchorName2" value="2ndAnchor"/>
+    <parameter name="sLookImageUrl" value="http://static3.netshoes.net/resources/netshoes/banners/blacknovember/desktop/fulls/full1_170324.jpg"/>
+    <parameter name="sBrowser" value="Firefox"/>
+    <parameter name="sPrd1" value="Selenium test Product-1SkuOOS"/>
+    <parameter name="sAnchorName1" value="1stAnchor"/>
+    <parameter name="sCategoryURL" value="http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes"/>
+    <classes>
+      <class name="testCase.NewLook_Template2">
+        <methods>
+          <include name="tearDown"/>
+          <include name="removeProduct"/>
+          <include name="SkuOOSTemp2OOSMsg"/>
+          <include name="Snippet"/>
+          <include name="ProdOOSTemp2OOSMsg"/>
+          <include name="ProdOOSTemp2OOSRedirect2"/>
+          <include name="createNewLookTempate2" invocation-numbers="0"/>
+          <include name="SkuAvailableSTemp2Redirect"/>
+          <include name="ProdOOSTemp2OOSRedirect1"/>
+          <include name="setUp"/>
+          <include name="deleteLook"/>
+        </methods>
+      </class> <!-- testCase.NewLook_Template2 -->
+    </classes>
+  </test> <!-- NewLook_Template2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

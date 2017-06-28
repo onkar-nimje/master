@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Look search - SUCCESSFULLY]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="103535" started-at="2017-03-31T12:44:06Z" finished-at="2017-03-31T12:45:50Z">
+    <groups>
+    </groups>
+    <test name="Existing-Look-Template1-Redirect" duration-ms="103535" started-at="2017-03-31T12:44:06Z" finished-at="2017-03-31T12:45:50Z">
+      <class name="testCase.Existing_Look_Template1">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.Existing_Look_Template1@7dac14dd]" name="setUp" is-config="true" duration-ms="2741" started-at="2017-03-31T18:14:06Z" finished-at="2017-03-31T18:14:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginToSite(java.lang.String, java.lang.String)[pri:0, instance:testCase.Existing_Look_Template1@7dac14dd]" name="LoginToSite" duration-ms="87920" started-at="2017-03-31T18:14:09Z" finished-at="2017-03-31T18:15:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[onkar.nimje@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abcd123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToSite -->
+        <test-method status="PASS" signature="searchLook(java.lang.String)[pri:1, instance:testCase.Existing_Look_Template1@7dac14dd]" name="searchLook" duration-ms="12864" started-at="2017-03-31T18:15:37Z" finished-at="2017-03-31T18:15:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium Test Look-Temp1-Redire]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Look search - SUCCESSFULLY]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchLook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.Existing_Look_Template1@7dac14dd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-03-31T18:15:50Z" finished-at="2017-03-31T18:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.Existing_Look_Template1 -->
+    </test> <!-- Existing-Look-Template1-Redirect -->
+  </suite> <!-- Suite -->
+</testng-results>

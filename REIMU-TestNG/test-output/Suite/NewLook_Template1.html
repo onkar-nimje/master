@@ -1,0 +1,186 @@
+<html>
+<head>
+<title>TestNG:  NewLook_Template1</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>NewLook_Template1</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Mar 27 18:27:51 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>352 seconds (352267 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testCase.NewLook_Template1.LoginToSite()'><b>LoginToSite</b><br>Test class: testCase.NewLook_Template1<br>Parameters: onkar.nimje@yopmail.com, Abcd123!</td>
+<td></td>
+<td>29</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.ProdOOSTemp1OOSMsg()'><b>ProdOOSTemp1OOSMsg</b><br>Test class: testCase.NewLook_Template1<br>Parameters: Product is out of stock, you will be directed to the category page<br/>
+<a href="#Output-2032418547" onClick='toggleBox("Output-2032418547", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2032418547" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2032418547">
+OOS message displaying - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.ProdOOSTemp1OOSRedirect1()'><b>ProdOOSTemp1OOSRedirect1</b><br>Test class: testCase.NewLook_Template1<br>Parameters: http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes<br/>
+<a href="#Output-1994043452" onClick='toggleBox("Output-1994043452", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1994043452" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1994043452">
+OOS product redirecting user to Category page - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>22</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.ProdOOSTemp1OOSRedirect2()'><b>ProdOOSTemp1OOSRedirect2</b><br>Test class: testCase.NewLook_Template1<br>Parameters: http://www.lojasrenner.com.br/c/perfumaria-e-cosmeticos/perfumes/perfumes<br/>
+<a href="#Output-2032830964" onClick='toggleBox("Output-2032830964", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2032830964" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2032830964">
+OOS product redirecting user to Category page - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>25</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.SkuAvailableSTemp1Redirect()'><b>SkuAvailableSTemp1Redirect</b><br>Test class: testCase.NewLook_Template1<br>Parameters: http://www.lojasrenner.com.br/p/perfume-lady-million-prive-eau-de-parfum-feminino-541833259-541833275<br/>
+<a href="#Output-368298632" onClick='toggleBox("Output-368298632", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-368298632" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-368298632">
+Available sku redirecting user to PDP page - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>42</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.SkuOOSTemp1OOSMsg()'><b>SkuOOSTemp1OOSMsg</b><br>Test class: testCase.NewLook_Template1<br>Parameters: The selected combination of color and/or size is currently unavailable, please select another<br/>
+<a href="#Output-1249359739" onClick='toggleBox("Output-1249359739", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1249359739" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1249359739">
+OOS message displaying - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.Snippet()'><b>Snippet</b><br>Test class: testCase.NewLook_Template1</td>
+<td></td>
+<td>6</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.createNewLookTempate1()'><b>createNewLookTempate1</b><br>Test class: testCase.NewLook_Template1<br>Parameters: SeleniumTest-Temp1-New Look, http://www.lionelstore.com/c.445393/shopflow-1-05-0/img/siteimages/CategoryBannerAds/DisneyIntro-CategoryAd.jpg, 1stAnchor, 2ndAnchor, Selenium test Product-1SkuOOS, Selenium test Product-OOS<br/>
+<a href="#Output-151851287" onClick='toggleBox("Output-151851287", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-151851287" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-151851287">
+Product Attached to New Look - SUCCESSFULLY<br/>
+Product Attached to New Look - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>158</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.deleteLook()'><b>deleteLook</b><br>Test class: testCase.NewLook_Template1<br>Parameters: SeleniumTest-Temp1-New Look, No Looks found! Please change your search filter.<br/>
+<a href="#Output-1277877511" onClick='toggleBox("Output-1277877511", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1277877511" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1277877511">
+Look Deletion - FAIL<br/>
+</div>
+</td>
+<td></td>
+<td>33</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+<tr>
+<td title='testCase.NewLook_Template1.removeAnchor()'><b>removeAnchor</b><br>Test class: testCase.NewLook_Template1<br>Parameters: Selenium test Product-1SkuOOS<br/>
+<a href="#Output-296267965" onClick='toggleBox("Output-296267965", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-296267965" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-296267965">
+Anchor removed  - SUCCESSFULLY<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testCase.NewLook_Template1@143d2a58</td></tr>
+</table><p>
+</body>
+</html>
