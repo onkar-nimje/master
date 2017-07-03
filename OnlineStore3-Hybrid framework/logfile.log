@@ -1,0 +1,21 @@
+2015-08-14 19:48:43,030 INFO  [Log] ..............START OF TEST CASE>>>UDF_TC............... 
+2015-08-14 19:48:45,806 INFO  [Log] New driver instantiated 
+2015-08-14 19:48:45,818 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-14 19:49:12,192 INFO  [Log] Web application launched successfully 
+2015-08-14 19:51:50,263 INFO  [Log] ..............START OF TEST CASE>>>UDF_TC............... 
+2015-08-14 19:51:53,117 INFO  [Log] New driver instantiated 
+2015-08-14 19:51:53,134 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-14 19:52:02,045 INFO  [Log] Web application launched successfully 
+2015-08-14 19:56:26,227 INFO  [Log] ..............START OF TEST CASE>>>UDF_TC............... 
+2015-08-14 19:56:29,050 INFO  [Log] New driver instantiated 
+2015-08-14 19:56:29,059 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-14 19:57:01,271 INFO  [Log] Web application launched successfully 
+2015-08-14 20:03:53,881 INFO  [Log] ..............START OF TEST CASE>>>UDF_TC............... 
+2015-08-14 20:03:56,658 INFO  [Log] New driver instantiated 
+2015-08-14 20:03:56,667 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-14 20:04:07,596 INFO  [Log] Web application launched successfully 
+2015-08-14 20:07:06,110 INFO  [Log] ..............START OF TEST CASE>>>UDF_TC............... 
+2015-08-14 20:07:09,021 INFO  [Log] New driver instantiated 
+2015-08-14 20:07:09,030 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-14 20:07:33,728 INFO  [Log] Web application launched successfully 
+2015-08-14 20:07:47,903 INFO  [Log] Login Successfully, now it is the time to Log Off buddy. 

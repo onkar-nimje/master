@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42413" started-at="2015-08-14T14:37:05Z" finished-at="2015-08-14T14:37:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42413" started-at="2015-08-14T14:37:05Z" finished-at="2015-08-14T14:37:48Z">
+      <class name="automationFramework.UDF_TC">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.UDF_TC@2e64e02]" name="beforeMethod" is-config="true" duration-ms="27785" started-at="2015-08-14T20:07:05Z" finished-at="2015-08-14T20:07:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.UDF_TC@2e64e02]" name="main" duration-ms="14174" started-at="2015-08-14T20:07:33Z" finished-at="2015-08-14T20:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.UDF_TC@2e64e02]" name="afterMethod" is-config="true" duration-ms="444" started-at="2015-08-14T20:07:47Z" finished-at="2015-08-14T20:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.UDF_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

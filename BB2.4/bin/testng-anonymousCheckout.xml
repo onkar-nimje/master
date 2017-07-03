@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="3" parallel="tests">
+ 
+<test name="Firefox-en_US-AnonymousCheckout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sTestCaseName" value="Firefox-en_US-AnonymousCheckout"></parameter>
+   <parameter name="sBaseUrl" value="http://www-ultimateresetuat.beachbody.com/shop/us/"></parameter>
+   <parameter name="sBaseUrlPROD" value="http://www.ultimatereset.com/shop/us/"></parameter>
+   <parameter name="sPageUrl" value="d/revitalize-URRevitalize"></parameter>
+   <parameter name="sLocal" value="en_US"></parameter>
+   <parameter name="sEmail" value="OEA@gmail.com"></parameter>
+   <parameter name="sPassword" value="12345"></parameter>
+   <parameter name="sWelcome" value="onkarB"></parameter>
+   <parameter name="sOrderConfMsg" value="Your order number is:"></parameter>
+   <parameter name="sPrinterFirendlyMsg" value="Printer-friendly version of this receipt"></parameter>
+   <parameter name="iProductType" value="1"></parameter>
+   <parameter name="iQty" value="1"></parameter>
+   <parameter name="sShipFirstName" value="OnkarS1"></parameter>
+   <parameter name="sShipLastName" value="NimjeS1"></parameter>
+   <parameter name="iShipPhone" value="1111111111"></parameter>
+   <parameter name="sShipAdd1" value="3301 Exposition Blvd."></parameter>
+   <parameter name="sShipCity" value="Santa Monica"></parameter>
+   <parameter name="sShipState" value="CA"></parameter>
+   <parameter name="sShipZip" value="90404"></parameter>
+   <parameter name="iShipMethod" value="1"></parameter>
+   <parameter name="sCardFirstName" value="OnkarB1"></parameter>
+   <parameter name="sCardLastName" value="NimjeB1"></parameter>
+   <parameter name="iCardNumber" value="4444444444444448"></parameter>
+   <parameter name="iCardExMonth" value="2"></parameter>
+   <parameter name="iCardExYear" value="3"></parameter>
+   <parameter name="iSecCode" value="111"></parameter>
+   <parameter name="sBillAdd1" value="110 W. Tudor Rd"></parameter>
+   <parameter name="sBillCity" value="Anchorage"></parameter>
+   <parameter name="sBillState" value="AK"></parameter>
+   <parameter name="sBillZip" value="99503"></parameter>
+   <parameter name="iBillPhone" value="2222222222"></parameter>
+   <parameter name="iBirthMonth" value="5"></parameter>
+   <parameter name="iBirthDay" value="3"></parameter>
+   <parameter name="iBirthYear" value="16"></parameter>
+   <classes>
+      <class name="TestNG.AnonymousCheckout"/>
+    </classes>
+  </test> 
+
+   
+  <test name="Firefox-en_CA-AnonymousCheckout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sTestCaseName" value="Firefox-en_CA-AnonymousCheckout"></parameter>
+   <parameter name="sBaseUrl" value="http://www-ultimateresetuat.beachbody.com/shop/ca/"></parameter>
+   <parameter name="sBaseUrlPROD" value="http://www.ultimatereset.com/shop/ca/"></parameter>
+   <parameter name="sPageUrl" value="d/ultimate-reset-soothe-URSoothe"></parameter>
+   <parameter name="sLocal" value="en_CA"></parameter>
+   <parameter name="sEmail" value="OEUS@gmail.com"></parameter>
+   <parameter name="sPassword" value="12345"></parameter>
+   <parameter name="sWelcome" value="onkarB"></parameter>
+   <parameter name="sOrderConfMsg" value="Your order number is:"></parameter>
+   <parameter name="sPrinterFirendlyMsg" value="Printer-friendly version of this receipt"></parameter>
+   <parameter name="iProductType" value="1"></parameter>
+   <parameter name="iQty" value="1"></parameter>
+   <parameter name="sShipFirstName" value="OnkarS1"></parameter>
+   <parameter name="sShipLastName" value="NimjeS1"></parameter>
+   <parameter name="iShipPhone" value="1111111111"></parameter>
+   <parameter name="sShipAdd1" value="9450 137 Ave NW"></parameter>
+   <parameter name="sShipCity" value="EdmontonMumai"></parameter>
+   <parameter name="sShipState" value="AB"></parameter>
+   <parameter name="sShipZip" value="T5E 6C2"></parameter>
+   <parameter name="iShipMethod" value="1"></parameter>
+   <parameter name="sCardFirstName" value="OnkarB1"></parameter>
+   <parameter name="sCardLastName" value="NimjeB1"></parameter>
+   <parameter name="iCardNumber" value="4444444444444448"></parameter>
+   <parameter name="iCardExMonth" value="2"></parameter>
+   <parameter name="iCardExYear" value="3"></parameter>
+   <parameter name="iSecCode" value="111"></parameter>
+   <parameter name="sBillAdd1" value="1335 chemin Georges"></parameter>
+   <parameter name="sBillCity" value="St Felix De Valois1"></parameter>
+   <parameter name="sBillState" value="QC"></parameter>
+   <parameter name="sBillZip" value="J0K 2M0"></parameter>
+   <parameter name="iBillPhone" value="3333333333"></parameter>
+   <parameter name="iBirthMonth" value="5"></parameter>
+   <parameter name="iBirthDay" value="3"></parameter>
+   <parameter name="iBirthYear" value="16"></parameter>
+   <classes>
+      <class name="TestNG.AnonymousCheckout"/>
+    </classes>
+  </test>   
+ 
+  <test name="Firefox-es_US-AnonymousCheckout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sTestCaseName" value="Firefox-es_US-AnonymousCheckout"></parameter>
+   <parameter name="sBaseUrl" value="http://www-ultimateresetuat.beachbody.com/shop/us/"></parameter>
+   <parameter name="sBaseUrlPROD" value="http://www.ultimatereset.com/shop/us/"></parameter>
+   <parameter name="sPageUrl" value="d/revitalize-URRevitalize"></parameter>
+   <parameter name="sLocal" value="es_US"></parameter>
+   <parameter name="sEmail" value="OEBrazil@gmail.com"></parameter>
+   <parameter name="sPassword" value="12345"></parameter>
+   <parameter name="sWelcome" value="onkarB"></parameter>
+   <parameter name="sOrderConfMsg" value="Your order number is:"></parameter>
+   <parameter name="sPrinterFirendlyMsg" value="Versión para imprimir de este recibo."></parameter>
+   <parameter name="iProductType" value="1"></parameter>
+   <parameter name="iQty" value="1"></parameter>
+   <parameter name="sShipFirstName" value="OnkarS1"></parameter>
+   <parameter name="sShipLastName" value="NimjeS1"></parameter>
+   <parameter name="iShipPhone" value="1111111111"></parameter>
+   <parameter name="sShipAdd1" value="3301 Exposition Blvd."></parameter>
+   <parameter name="sShipCity" value="Santa Monica"></parameter>
+   <parameter name="sShipState" value="CA"></parameter>
+   <parameter name="sShipZip" value="90404"></parameter>
+   <parameter name="iShipMethod" value="1"></parameter>
+   <parameter name="sCardFirstName" value="OnkarB1"></parameter>
+   <parameter name="sCardLastName" value="NimjeB1"></parameter>
+   <parameter name="iCardNumber" value="4444444444444448"></parameter>
+   <parameter name="iCardExMonth" value="2"></parameter>
+   <parameter name="iCardExYear" value="3"></parameter>
+   <parameter name="iSecCode" value="111"></parameter>
+   <parameter name="sBillAdd1" value="110 W. Tudor Rd"></parameter>
+   <parameter name="sBillCity" value="Anchorage"></parameter>
+   <parameter name="sBillState" value="AK"></parameter>
+   <parameter name="sBillZip" value="99503"></parameter>
+   <parameter name="iBillPhone" value="5555555555"></parameter>
+   <parameter name="iBirthMonth" value="5"></parameter>
+   <parameter name="iBirthDay" value="3"></parameter>
+   <parameter name="iBirthYear" value="16"></parameter>
+   <classes>
+      <class name="TestNG.AnonymousCheckout"/>
+    </classes>
+  </test> 
+
+-->
+ 
+   
+  
+</suite> <!-- Suite -->
+

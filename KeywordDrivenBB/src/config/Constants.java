@@ -1,0 +1,40 @@
+package config;
+
+public class Constants {
+	public static final String URL = "http://www-ultimateresetdevint2.beachbody.local/shop/us";
+	public static final String Path_OR = "D://workspaces//Selenuim//KeywordDrivenBB//src//config//OR";
+	//public static final String Path_TestData = "D://workspaces//Selenuim//KeywordDrivenBB//src//dataEngine//DataEngine.xls";
+	public static final String Path_TestData = "D://workspaces//Selenuim//KeywordDrivenBB//src//dataEngine//";
+
+	public static final String File_TestFlowData = "DataEngine.xls";
+ 
+	//List of Data Sheet Column Numbers
+	public static final int Col_TestCaseID = 0;	
+	public static final int Col_PageObject = 3;
+	public static final int Col_ActionKeyword =4 ;
+	public static final int Col_RunMode = 2 ;
+	public static final int Col_ObjectType=7;
+	
+	//List of Transition(data row) for test cases
+	public static final int Col_TestData=4;
+	
+	
+	public static final int Col_Result = 3 ;
+	public static final int Col_DataSet = 5;
+	public static final int Col_TestStepResult =6 ;
+	public static final int Col_FlowID = 0;
+ 
+	//List of Data Engine Excel sheets
+	public static final String Sheet_TestSteps = "Test Steps";
+	public static final String Sheet_TestCases = "Test Cases";
+	public static final String Sheet_TestFlows = "Flows";
+
+	
+	
+	
+	public static final String KEYWORD_FAIL = "FAIL";
+	public static final String KEYWORD_PASS = "PASS";
+
+	
+
+}

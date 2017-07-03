@@ -1,0 +1,95 @@
+2014-12-18 12:31:39,307 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:31:39,307 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:31:39,307 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-18 12:31:39,307 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:31:39,307 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:31:43,126 INFO  [Log] New driver instantiated 
+2014-12-18 12:31:43,126 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-18 12:33:19,473 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-18 12:33:19,473 INFO  [Log] Web application launched successfully 
+2014-12-18 12:33:19,477 INFO  [Log] Username picked from Excel is  
+2014-12-18 12:33:19,477 INFO  [Log] Password picked from Excel is  
+2014-12-18 12:33:20,255 INFO  [Log] My Account link element found 
+2014-12-18 12:33:20,500 INFO  [Log] Click action performed on My Account link 
+2014-12-18 12:42:55,652 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:42:55,652 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:42:55,652 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-18 12:42:55,652 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:42:55,652 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:42:58,405 INFO  [Log] New driver instantiated 
+2014-12-18 12:42:58,415 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-18 12:44:31,293 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-18 12:44:31,293 INFO  [Log] Web application launched successfully 
+2014-12-18 12:44:31,297 INFO  [Log] Username picked from Excel is  
+2014-12-18 12:44:31,297 INFO  [Log] Password picked from Excel is  
+2014-12-18 12:44:31,318 INFO  [Log] My Account link element found 
+2014-12-18 12:44:32,027 INFO  [Log] Click action performed on My Account link 
+2014-12-18 12:48:23,880 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:48:23,880 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:48:23,880 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-18 12:48:23,880 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:48:23,880 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:48:25,709 INFO  [Log] New driver instantiated 
+2014-12-18 12:48:25,744 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-18 12:49:58,246 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-18 12:49:58,246 INFO  [Log] Web application launched successfully 
+2014-12-18 12:49:58,250 INFO  [Log] Username picked from Excel is  
+2014-12-18 12:49:58,250 INFO  [Log] Password picked from Excel is  
+2014-12-18 12:49:58,270 INFO  [Log] My Account link element found 
+2014-12-18 12:49:58,959 INFO  [Log] Click action performed on My Account link 
+2014-12-18 12:52:23,979 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:52:23,979 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:52:23,979 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-18 12:52:23,979 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:52:23,979 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:52:25,817 INFO  [Log] New driver instantiated 
+2014-12-18 12:52:25,826 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-18 12:53:59,033 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-18 12:53:59,033 INFO  [Log] Web application launched successfully 
+2014-12-18 12:53:59,039 INFO  [Log] Username picked from Excel is  
+2014-12-18 12:53:59,039 INFO  [Log] Password picked from Excel is  
+2014-12-18 12:53:59,061 INFO  [Log] My Account link element found 
+2014-12-18 12:53:59,737 INFO  [Log] Click action performed on My Account link 
+2014-12-18 12:59:33,201 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:59:33,211 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:59:33,211 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-18 12:59:33,211 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:59:33,211 INFO  [Log] **************************************************************************************** 
+2014-12-18 12:59:35,769 INFO  [Log] New driver instantiated 
+2014-12-18 12:59:35,769 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-18 13:01:19,222 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-18 13:01:19,222 INFO  [Log] Web application launched successfully 
+2014-12-18 13:01:19,231 INFO  [Log] Username picked from Excel is  
+2014-12-18 13:01:19,231 INFO  [Log] Password picked from Excel is  
+2014-12-18 13:01:19,252 INFO  [Log] My Account link element found 
+2014-12-18 13:01:21,367 INFO  [Log] Click action performed on My Account link 
+2014-12-18 18:13:45,322 INFO  [Log] **************************************************************************************** 
+2014-12-18 18:13:45,322 INFO  [Log] **************************************************************************************** 
+2014-12-18 18:13:45,322 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-18 18:13:45,322 INFO  [Log] **************************************************************************************** 
+2014-12-18 18:13:45,322 INFO  [Log] **************************************************************************************** 
+2014-12-18 18:13:50,766 INFO  [Log] New driver instantiated 
+2014-12-18 18:13:50,769 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-18 18:15:25,569 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-18 18:15:25,570 INFO  [Log] Web application launched successfully 
+2014-12-18 18:15:25,576 INFO  [Log] Username picked from Excel is  
+2014-12-18 18:15:25,576 INFO  [Log] Password picked from Excel is  
+2014-12-18 18:15:25,603 INFO  [Log] My Account link element found 
+2014-12-18 18:15:26,412 INFO  [Log] Click action performed on My Account link 
+2014-12-18 18:16:09,503 INFO  [Log] Username text box found 
+2014-12-18 18:16:09,580 INFO  [Log] Username entered in the Username text box 
+2014-12-18 18:16:09,592 INFO  [Log] Password text box found 
+2014-12-18 18:16:09,673 INFO  [Log] Password entered in the Password text box 
+2014-12-18 18:16:09,688 INFO  [Log] Submit button found 
+2014-12-18 18:16:09,722 INFO  [Log] Click action performed on Submit button 
+2014-12-19 15:20:12,549 INFO  [Log] **************************************************************************************** 
+2014-12-19 15:20:12,549 INFO  [Log] **************************************************************************************** 
+2014-12-19 15:20:12,549 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-19 15:20:12,549 INFO  [Log] **************************************************************************************** 
+2014-12-19 15:20:12,549 INFO  [Log] **************************************************************************************** 
+2014-12-19 15:20:17,794 INFO  [Log] New driver instantiated 
+2014-12-19 15:20:17,794 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-19 15:21:29,702 INFO  [Log] Implicit wait applied on the driver for 30 seconds 
+2014-12-19 15:21:29,703 INFO  [Log] Web application launched successfully 
+2014-12-19 15:21:29,708 INFO  [Log] Username picked from Excel is  
+2014-12-19 15:21:29,708 INFO  [Log] Password picked from Excel is  

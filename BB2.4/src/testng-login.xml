@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="3" parallel="tests">
+
+  <test name="Firefox-en_US-Login Logout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sTestCaseName" value="Firefox-en_US-Login Logout"></parameter>
+   <parameter name="sBaseUrl" value="http://www-ultimateresetuat.beachbody.com/shop/us/"></parameter>
+   <parameter name="sPageUrl" value="b/ultimate-reset"></parameter>
+   <parameter name="sLocal" value="en_US"></parameter>
+   <parameter name="sEmail" value="omnimje@gmail.com"></parameter>
+   <parameter name="sPassword" value="12345"></parameter>
+   <parameter name="sWelcome" value="onkarB"></parameter>
+   <parameter name="sExpetMsgEmailMiss" value="Username not entered. This field is required"></parameter>
+   <parameter name="sExpetMsgPasswordMiss" value="Password not entered. This field is required."></parameter>
+   <parameter name="sWrongEmailPassmsg" value="The email address or password you entered is incorrect."></parameter>
+   <classes>
+      <class name="TestNG.LoginLogout"/>
+    </classes>
+  </test> 
+
+  
+  <test name="Firefox-en_CA-Login Logout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sTestCaseName" value="Firefox-en_CA-Login Logout"></parameter>
+   <parameter name="sBaseUrl" value="http://www-ultimateresetuat.beachbody.com/shop/ca/"></parameter>
+   <parameter name="sPageUrl" value="b/ultimate-reset"></parameter>
+   <parameter name="sLocal" value="en_CA"></parameter>
+   <parameter name="sEmail" value="onkar.nimje@gmail.com"></parameter>
+   <parameter name="sPassword" value="12345"></parameter>
+   <parameter name="sWelcome" value="onkarCAB"></parameter>
+   <parameter name="sExpetMsgEmailMiss" value="Username not entered. This field is required"></parameter>
+   <parameter name="sExpetMsgPasswordMiss" value="Password not entered. This field is required."></parameter>
+   <parameter name="sWrongEmailPassmsg" value="The email address or password you entered is incorrect."></parameter>
+    <classes>
+      <class name="TestNG.LoginLogout"/>
+    </classes>
+  </test> 
+  
+  
+ <test name="Firefox-es_US-Login Logout">
+   <parameter name="sBrowser" value="Firefox"></parameter>
+   <parameter name="sTestCaseName" value="Firefox-es_US-Login Logout"></parameter>
+    <parameter name="sBaseUrl" value="http://www-ultimateresetuat.beachbody.com/shop/us/"></parameter>
+   <parameter name="sPageUrl" value="b/ultimate-reset"></parameter>
+   <parameter name="sLocal" value="es_US"></parameter>
+   <parameter name="sEmail" value="mohini.dew07@gmail.com"></parameter>
+   <parameter name="sPassword" value="12345"></parameter>
+   <parameter name="sWelcome" value="onkarB"></parameter>
+   <parameter name="sExpetMsgEmailMiss" value="Ingresa una nombre de usuario válida."></parameter>
+   <parameter name="sExpetMsgPasswordMiss" value="No se introdujo la contraseña. Este campo es obligatorio."></parameter>
+   <parameter name="sWrongEmailPassmsg" value="La dirección de correo electrónico o la contraseña que ingresaste no es correcta."></parameter>
+    <classes>
+      <class name="TestNG.LoginLogout"/>
+    </classes>
+  </test> 
+  
+</suite> <!-- Suite -->
+

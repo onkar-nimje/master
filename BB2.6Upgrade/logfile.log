@@ -1,0 +1,67 @@
+2016-12-08 21:12:51,229 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:12:51,229 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:12:51,229 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              MultiSiteOrderSync_enUS (Transition_01) Start at 1481211771229    $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-08 21:12:51,229 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:12:51,229 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:12:51,229 INFO  [Log] Opening Browser:Mozilla 
+2016-12-08 21:12:53,983 INFO  [Log] Mozilla browser started 
+2016-12-08 21:12:54,004 INFO  [Log] Navigating to URL:http://www-ultimateresetuat.beachbody.com/shop/us/d/ultimate-reset-mineralize-URMineralize 
+2016-12-08 21:13:06,049 INFO  [Log] Wait for page load completely 
+2016-12-08 21:13:26,062 INFO  [Log] selecting the dropdown menu option_Sku 
+2016-12-08 21:13:26,062 INFO  [Log] objectType:::id 
+2016-12-08 21:13:26,062 INFO  [Log] objectName:::option_Sku 
+2016-12-08 21:13:26,062 INFO  [Log] objectValue:::Order-type 
+2016-12-08 21:13:36,152 ERROR [Log] Not able to select element from dropdown menu Unable to locate element: {"method":"id","selector":"Order-type"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'OEIS-D32', ip: '10.253.252.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+*** Element info: {Using=id, value=Order-type}
+Session ID: 6ec7894c-ed88-488c-a73c-216d6e03ac60
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}] 
+2016-12-08 21:13:36,462 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- at 1481211816462            XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-08 21:13:36,462 INFO  [Log] X 
+2016-12-08 21:13:36,462 INFO  [Log] X 
+2016-12-08 21:13:36,462 INFO  [Log] X 
+2016-12-08 21:13:36,462 INFO  [Log] X 
+2016-12-08 21:13:36,462 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:13:36,462 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:13:36,462 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              MultiSiteOrderSync_enUS (Transition_02) Start at 1481211816462    $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-08 21:13:36,462 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:13:36,462 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:13:36,462 INFO  [Log] Opening Browser:Mozilla 
+2016-12-08 21:13:38,242 INFO  [Log] Mozilla browser started 
+2016-12-08 21:13:38,242 INFO  [Log] Navigating to URL:http://www-ultimateresetuat.beachbody.com/shop/us/d/ultimate-reset-mineralize-URMineralize 
+2016-12-08 21:13:48,123 INFO  [Log] Wait for page load completely 
+2016-12-08 21:14:08,143 INFO  [Log] selecting the dropdown menu option_Sku 
+2016-12-08 21:14:08,143 INFO  [Log] objectType:::id 
+2016-12-08 21:14:08,143 INFO  [Log] objectName:::option_Sku 
+2016-12-08 21:14:08,143 INFO  [Log] objectValue:::Order-type 
+2016-12-08 21:14:18,204 ERROR [Log] Not able to select element from dropdown menu Unable to locate element: {"method":"id","selector":"Order-type"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'OEIS-D32', ip: '10.253.252.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+*** Element info: {Using=id, value=Order-type}
+Session ID: 134fb50a-b1e8-44b7-b007-aa5ae3553a33
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}] 
+2016-12-08 21:14:18,488 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- at 1481211858488            XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-08 21:14:18,488 INFO  [Log] X 
+2016-12-08 21:14:18,488 INFO  [Log] X 
+2016-12-08 21:14:18,488 INFO  [Log] X 
+2016-12-08 21:14:18,488 INFO  [Log] X 
+2016-12-08 21:14:18,488 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:14:18,488 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:14:18,488 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              MultiSiteOrderSync_enUS (Transition_03) Start at 1481211858488    $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-08 21:14:18,488 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:14:18,488 INFO  [Log] **************************************************************************************** 
+2016-12-08 21:14:18,488 INFO  [Log] Opening Browser:Mozilla 
+2016-12-08 21:14:20,430 INFO  [Log] Mozilla browser started 
+2016-12-08 21:14:20,431 INFO  [Log] Navigating to URL:http://www-ultimateresetuat.beachbody.com/shop/us/d/ultimate-reset-mineralize-URMineralize 
+2016-12-08 21:14:30,277 INFO  [Log] Wait for page load completely 
+2016-12-08 21:14:50,285 INFO  [Log] selecting the dropdown menu option_Sku 
+2016-12-08 21:14:50,285 INFO  [Log] objectType:::id 
+2016-12-08 21:14:50,285 INFO  [Log] objectName:::option_Sku 
+2016-12-08 21:14:50,285 INFO  [Log] objectValue:::Order-type 

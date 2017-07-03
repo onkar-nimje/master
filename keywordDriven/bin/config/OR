@@ -1,0 +1,57 @@
+
+# 1) these objects are for another site (http://www.store.demoqa.com)
+# Home page objects
+btn1_Myaccount=//*[@id='account']/a
+btn1_Logout=//*[@id='account_logout']/a
+
+
+# Login page objects
+txtbx1_Username=log 
+txtbx1_Pasword=pwd
+btn1_Login=//*[@id='login']
+
+# 2) these objects are for another site (https://www.lojasrenner.com.br)
+
+# Home page objects
+txt_MyAccount=Entre ou cadastre-se
+txt_Minicart=cart
+txt_MinicartComprar=//*[@id='cartHoverContent']/div[2]/div[2]/a
+txt_MyOrder=Meus Pedidos
+
+# My Order page objects
+btn_NextPage=next-pag
+btn_PrevPage=prev-pag
+txt_NextPageNumber=cSlide
+txt_PrevPageNumber=tSlide
+
+# Login page objects
+txtbx_Username=emailOrCPF
+txtbx_Password=password
+
+# Product detail page objects
+option_Color=skuColorsList
+option_Size=skuSizeList
+btn_AddToCart=//*[@id='linkAddToCart']
+
+
+# Cart Page objects
+text_Color=//*[@id='item-534975136']/li[1]/div/span[2]
+text_Size=//*[@id='item-534975136']/li[1]/div/span[1]
+
+# Checkout
+btn_Checkout=//*[@id='buyFinal']
+
+# Login page object
+btn_Login=//*[@id='buttonEnter']
+
+# Address Page objects
+option_Address=adress-list
+option_Ship=shipSelect
+option_PaymentCard=paymentContainer
+#option_NumberOfPayment=//*[@id='payCardRennerForm']/div[2]/div[2]
+option_NumberOfPayment=inptNumberOfPayments
+txtbx_NumberOfPayment=inptNumberOfPayments
+txtbx_CardPassword=inptCardPassword
+txtbx_Datepicker=datepicker
+#calender_Date="//*[@id='ui-datepicker-div']/table/tbody/tr[2]/td["+i+"]/a"
+calender_Date=//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[Z]/a

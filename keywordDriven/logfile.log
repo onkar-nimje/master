@@ -1,0 +1,670 @@
+2015-02-06 13:26:29,293 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:26:29,293 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:26:29,293 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 13:26:29,293 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:26:29,293 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:26:29,293 INFO  [Log] Opening Browser 
+2015-02-06 13:26:34,680 INFO  [Log] Chrome browser started 
+2015-02-06 13:26:34,719 INFO  [Log] Navigating to URL 
+2015-02-06 13:26:51,583 INFO  [Log] Clicking on Webelement  
+2015-02-06 13:26:56,683 INFO  [Log] Navigating to URL 
+2015-02-06 13:26:58,847 INFO  [Log] Wait for page load completely 
+2015-02-06 13:27:08,880 INFO  [Log] selecting the option_Color 
+2015-02-06 13:27:09,003 INFO  [Log] Wait for page load completely 
+2015-02-06 13:27:14,013 INFO  [Log] selecting the option_Size 
+2015-02-06 13:27:14,110 INFO  [Log] Wait for page load completely 
+2015-02-06 13:27:19,130 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 13:27:30,551 INFO  [Log] Wait for page load completely 
+2015-02-06 13:27:40,565 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 13:27:40,648 INFO  [Log] Wait for page load completely 
+2015-02-06 13:27:50,660 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 13:27:53,983 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 13:27:54,079 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 13:27:54,709 INFO  [Log] Wait for page load completely 
+2015-02-06 13:28:04,718 INFO  [Log] selecting the option_Address 
+2015-02-06 13:28:10,732 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:28:10,733 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:28:10,733 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 13:28:10,733 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:28:10,733 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:28:10,733 INFO  [Log] Opening Browser 
+2015-02-06 13:28:15,093 INFO  [Log] Chrome browser started 
+2015-02-06 13:28:15,133 INFO  [Log] Navigating to URL 
+2015-02-06 13:28:28,891 INFO  [Log] Clicking on Webelement  
+2015-02-06 13:28:29,460 INFO  [Log] Navigating to URL 
+2015-02-06 13:28:30,389 INFO  [Log] Wait for page load completely 
+2015-02-06 13:28:40,407 INFO  [Log] selecting the option_Color 
+2015-02-06 13:28:40,508 INFO  [Log] Wait for page load completely 
+2015-02-06 13:28:45,518 INFO  [Log] selecting the option_Size 
+2015-02-06 13:28:45,598 INFO  [Log] Wait for page load completely 
+2015-02-06 13:28:50,618 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 13:28:52,232 INFO  [Log] Wait for page load completely 
+2015-02-06 13:29:02,246 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 13:29:04,256 ERROR [Log] Not able to click --- chrome not reachable
+  (Session info: chrome=40.0.2214.94)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.00 seconds
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '192.168.169.208', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: 63e199957c6111665b845217557d4946
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir4172_15997}, rotatable=false, locationContextEnabled=true, version=40.0.2214.94, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-06 13:29:04,262 INFO  [Log] Closing the browser 
+2015-02-06 13:29:05,349 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 13:29:05,349 INFO  [Log] X 
+2015-02-06 13:29:05,349 INFO  [Log] X 
+2015-02-06 13:29:05,349 INFO  [Log] X 
+2015-02-06 13:29:05,349 INFO  [Log] X 
+2015-02-06 13:29:14,165 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:29:14,166 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:29:14,166 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 13:29:14,166 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:29:14,166 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:29:14,166 INFO  [Log] Opening Browser 
+2015-02-06 13:29:18,543 INFO  [Log] Chrome browser started 
+2015-02-06 13:29:18,584 INFO  [Log] Navigating to URL 
+2015-02-06 13:29:29,890 INFO  [Log] Clicking on Webelement  
+2015-02-06 13:29:31,685 INFO  [Log] Navigating to URL 
+2015-02-06 13:29:34,066 INFO  [Log] Wait for page load completely 
+2015-02-06 13:29:44,099 INFO  [Log] selecting the option_Color 
+2015-02-06 13:29:44,221 INFO  [Log] Wait for page load completely 
+2015-02-06 13:29:49,296 INFO  [Log] selecting the option_Size 
+2015-02-06 13:29:49,384 INFO  [Log] Wait for page load completely 
+2015-02-06 13:29:54,393 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 13:30:05,507 INFO  [Log] Wait for page load completely 
+2015-02-06 13:30:15,521 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 13:30:15,601 INFO  [Log] Wait for page load completely 
+2015-02-06 13:30:25,607 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 13:30:25,731 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 13:30:25,849 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 13:30:31,626 INFO  [Log] Wait for page load completely 
+2015-02-06 13:30:41,631 INFO  [Log] selecting the option_Address 
+2015-02-06 13:30:41,740 INFO  [Log] Wait for page load completely 
+2015-02-06 13:30:51,757 INFO  [Log] selecting the option_Ship 
+2015-02-06 13:30:51,840 INFO  [Log] Wait for page load completely 
+2015-02-06 13:30:56,845 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 13:30:56,960 INFO  [Log] selecting the date 
+2015-02-06 13:30:57,013 INFO  [Log] Closing the browser 
+2015-02-06 13:30:58,230 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 13:30:58,231 INFO  [Log] X 
+2015-02-06 13:30:58,231 INFO  [Log] X 
+2015-02-06 13:30:58,231 INFO  [Log] X 
+2015-02-06 13:30:58,231 INFO  [Log] X 
+2015-02-06 13:35:01,127 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:35:01,127 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:35:01,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 13:35:01,127 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:35:01,127 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:35:01,128 INFO  [Log] Opening Browser 
+2015-02-06 13:35:05,764 INFO  [Log] Chrome browser started 
+2015-02-06 13:35:05,804 INFO  [Log] Navigating to URL 
+2015-02-06 13:35:16,927 INFO  [Log] Clicking on Webelement  
+2015-02-06 13:35:18,642 INFO  [Log] Navigating to URL 
+2015-02-06 13:35:19,143 INFO  [Log] Wait for page load completely 
+2015-02-06 13:35:29,160 INFO  [Log] selecting the option_Color 
+2015-02-06 13:35:30,347 INFO  [Log] Wait for page load completely 
+2015-02-06 13:35:35,367 INFO  [Log] selecting the option_Size 
+2015-02-06 13:35:35,446 INFO  [Log] Wait for page load completely 
+2015-02-06 13:35:40,465 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 13:35:47,594 INFO  [Log] Wait for page load completely 
+2015-02-06 13:35:57,601 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 13:35:57,685 INFO  [Log] Wait for page load completely 
+2015-02-06 13:36:07,695 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 13:36:07,839 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 13:36:07,942 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 13:36:13,210 INFO  [Log] Wait for page load completely 
+2015-02-06 13:36:23,218 INFO  [Log] selecting the option_Address 
+2015-02-06 13:36:23,325 INFO  [Log] Wait for page load completely 
+2015-02-06 13:36:33,338 INFO  [Log] selecting the option_Ship 
+2015-02-06 13:36:33,424 INFO  [Log] Wait for page load completely 
+2015-02-06 13:36:38,427 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 13:36:38,543 INFO  [Log] selecting the date 
+2015-02-06 13:36:38,543 ERROR [Log] Not able to select date 
+2015-02-06 13:36:38,548 INFO  [Log] Closing the browser 
+2015-02-06 13:36:39,781 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 13:36:39,781 INFO  [Log] X 
+2015-02-06 13:36:39,781 INFO  [Log] X 
+2015-02-06 13:36:39,781 INFO  [Log] X 
+2015-02-06 13:36:39,781 INFO  [Log] X 
+2015-02-06 13:40:05,644 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:40:05,644 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:40:05,644 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 13:40:05,644 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:40:05,644 INFO  [Log] **************************************************************************************** 
+2015-02-06 13:40:05,644 INFO  [Log] Opening Browser 
+2015-02-06 13:40:09,457 INFO  [Log] Chrome browser started 
+2015-02-06 13:40:09,496 INFO  [Log] Navigating to URL 
+2015-02-06 13:40:20,567 INFO  [Log] Clicking on Webelement  
+2015-02-06 13:40:23,244 INFO  [Log] Navigating to URL 
+2015-02-06 13:40:24,943 INFO  [Log] Wait for page load completely 
+2015-02-06 13:40:34,979 INFO  [Log] selecting the option_Color 
+2015-02-06 13:40:35,095 INFO  [Log] Wait for page load completely 
+2015-02-06 13:40:40,116 INFO  [Log] selecting the option_Size 
+2015-02-06 13:40:40,217 INFO  [Log] Wait for page load completely 
+2015-02-06 13:40:45,235 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 13:40:52,567 INFO  [Log] Wait for page load completely 
+2015-02-06 13:41:02,582 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 13:41:07,697 INFO  [Log] Wait for page load completely 
+2015-02-06 13:41:17,707 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 13:41:17,878 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 13:41:17,990 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 13:41:23,233 INFO  [Log] Wait for page load completely 
+2015-02-06 13:41:33,242 INFO  [Log] selecting the option_Address 
+2015-02-06 13:41:33,367 INFO  [Log] Wait for page load completely 
+2015-02-06 13:41:43,396 INFO  [Log] selecting the option_Ship 
+2015-02-06 13:41:43,484 INFO  [Log] Wait for page load completely 
+2015-02-06 13:41:48,488 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 13:41:48,612 INFO  [Log] selecting the date 
+2015-02-06 13:41:48,666 INFO  [Log] Closing the browser 
+2015-02-06 13:41:49,890 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 13:41:49,890 INFO  [Log] X 
+2015-02-06 13:41:49,890 INFO  [Log] X 
+2015-02-06 13:41:49,891 INFO  [Log] X 
+2015-02-06 13:41:49,891 INFO  [Log] X 
+2015-02-06 15:11:53,156 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:11:53,156 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:11:53,156 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 15:11:53,156 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:11:53,156 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:11:53,156 INFO  [Log] Opening Browser 
+2015-02-06 15:11:57,803 INFO  [Log] Chrome browser started 
+2015-02-06 15:11:57,846 INFO  [Log] Navigating to URL 
+2015-02-06 15:12:07,780 INFO  [Log] Clicking on Webelement  
+2015-02-06 15:12:09,884 INFO  [Log] Navigating to URL 
+2015-02-06 15:12:11,850 INFO  [Log] Wait for page load completely 
+2015-02-06 15:12:21,890 INFO  [Log] selecting the option_Color 
+2015-02-06 15:12:22,055 INFO  [Log] Wait for page load completely 
+2015-02-06 15:12:27,076 INFO  [Log] selecting the option_Size 
+2015-02-06 15:12:27,160 INFO  [Log] Wait for page load completely 
+2015-02-06 15:12:32,180 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 15:12:43,341 INFO  [Log] Wait for page load completely 
+2015-02-06 15:12:53,354 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 15:12:53,459 INFO  [Log] Wait for page load completely 
+2015-02-06 15:13:03,470 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 15:13:03,619 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 15:13:03,721 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 15:13:10,157 INFO  [Log] Wait for page load completely 
+2015-02-06 15:13:20,166 INFO  [Log] selecting the option_Address 
+2015-02-06 15:13:20,285 INFO  [Log] Wait for page load completely 
+2015-02-06 15:13:30,312 INFO  [Log] selecting the option_Ship 
+2015-02-06 15:13:30,402 INFO  [Log] Wait for page load completely 
+2015-02-06 15:13:35,405 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 15:13:35,517 INFO  [Log] selecting the date 
+2015-02-06 15:13:35,571 INFO  [Log] Wait for page load completely 
+2015-02-06 15:13:40,579 INFO  [Log] Closing the browser 
+2015-02-06 15:13:41,705 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 15:13:41,705 INFO  [Log] X 
+2015-02-06 15:13:41,705 INFO  [Log] X 
+2015-02-06 15:13:41,705 INFO  [Log] X 
+2015-02-06 15:13:41,705 INFO  [Log] X 
+2015-02-06 15:15:33,658 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:15:33,659 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:15:33,659 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 15:15:33,659 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:15:33,659 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:15:33,659 INFO  [Log] Opening Browser 
+2015-02-06 15:15:37,835 INFO  [Log] Chrome browser started 
+2015-02-06 15:15:37,874 INFO  [Log] Navigating to URL 
+2015-02-06 15:15:49,408 INFO  [Log] Clicking on Webelement  
+2015-02-06 15:15:49,604 INFO  [Log] Navigating to URL 
+2015-02-06 15:15:50,853 INFO  [Log] Wait for page load completely 
+2015-02-06 15:16:00,881 INFO  [Log] selecting the option_Color 
+2015-02-06 15:16:01,008 INFO  [Log] Wait for page load completely 
+2015-02-06 15:16:06,030 INFO  [Log] selecting the option_Size 
+2015-02-06 15:16:06,159 INFO  [Log] Wait for page load completely 
+2015-02-06 15:16:11,169 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 15:16:18,646 INFO  [Log] Wait for page load completely 
+2015-02-06 15:16:28,661 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 15:16:28,749 INFO  [Log] Wait for page load completely 
+2015-02-06 15:16:38,759 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 15:16:38,904 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 15:16:39,007 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 15:16:44,156 INFO  [Log] Wait for page load completely 
+2015-02-06 15:16:54,160 INFO  [Log] selecting the option_Address 
+2015-02-06 15:16:54,253 INFO  [Log] Wait for page load completely 
+2015-02-06 15:17:04,268 INFO  [Log] selecting the option_Ship 
+2015-02-06 15:17:04,353 INFO  [Log] Wait for page load completely 
+2015-02-06 15:17:09,357 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 15:17:09,471 INFO  [Log] selecting the date 
+2015-02-06 15:17:19,514 ERROR [Log] Not able to select date 
+2015-02-06 15:17:19,518 INFO  [Log] Closing the browser 
+2015-02-06 15:17:20,728 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 15:17:20,728 INFO  [Log] X 
+2015-02-06 15:17:20,728 INFO  [Log] X 
+2015-02-06 15:17:20,728 INFO  [Log] X 
+2015-02-06 15:17:20,728 INFO  [Log] X 
+2015-02-06 15:19:06,627 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:19:06,627 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:19:06,627 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 15:19:06,627 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:19:06,627 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:19:06,627 INFO  [Log] Opening Browser 
+2015-02-06 15:19:12,245 INFO  [Log] Chrome browser started 
+2015-02-06 15:19:12,283 INFO  [Log] Navigating to URL 
+2015-02-06 15:19:25,852 INFO  [Log] Clicking on Webelement  
+2015-02-06 15:19:26,155 INFO  [Log] Navigating to URL 
+2015-02-06 15:19:26,970 INFO  [Log] Wait for page load completely 
+2015-02-06 15:19:37,010 INFO  [Log] selecting the option_Color 
+2015-02-06 15:19:37,559 INFO  [Log] Wait for page load completely 
+2015-02-06 15:19:42,581 INFO  [Log] selecting the option_Size 
+2015-02-06 15:19:42,701 INFO  [Log] Wait for page load completely 
+2015-02-06 15:19:47,720 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 15:19:57,371 INFO  [Log] Wait for page load completely 
+2015-02-06 15:20:07,384 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 15:20:09,457 INFO  [Log] Wait for page load completely 
+2015-02-06 15:20:19,465 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 15:20:19,586 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 15:20:19,684 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 15:20:25,182 INFO  [Log] Wait for page load completely 
+2015-02-06 15:20:35,190 INFO  [Log] selecting the option_Address 
+2015-02-06 15:20:35,296 INFO  [Log] Wait for page load completely 
+2015-02-06 15:20:45,320 INFO  [Log] selecting the option_Ship 
+2015-02-06 15:20:45,405 INFO  [Log] Wait for page load completely 
+2015-02-06 15:20:50,414 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 15:20:50,535 INFO  [Log] selecting the date 
+2015-02-06 15:20:50,580 INFO  [Log] Wait for page load completely 
+2015-02-06 15:20:55,587 INFO  [Log] Closing the browser 
+2015-02-06 15:20:56,879 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 15:20:56,879 INFO  [Log] X 
+2015-02-06 15:20:56,879 INFO  [Log] X 
+2015-02-06 15:20:56,879 INFO  [Log] X 
+2015-02-06 15:20:56,879 INFO  [Log] X 
+2015-02-06 15:21:12,728 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:21:12,728 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:21:12,728 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddToCart_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 15:21:12,728 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:21:12,728 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:21:12,728 INFO  [Log] Opening Browser 
+2015-02-06 15:21:16,832 INFO  [Log] Chrome browser started 
+2015-02-06 15:21:16,871 INFO  [Log] Navigating to URL 
+2015-02-06 15:21:28,974 INFO  [Log] Clicking on Webelement  
+2015-02-06 15:21:29,191 INFO  [Log] Navigating to URL 
+2015-02-06 15:21:29,731 INFO  [Log] Wait for page load completely 
+2015-02-06 15:21:39,756 INFO  [Log] selecting the option_Color 
+2015-02-06 15:21:41,043 INFO  [Log] Wait for page load completely 
+2015-02-06 15:21:46,052 INFO  [Log] selecting the option_Size 
+2015-02-06 15:21:46,143 INFO  [Log] Wait for page load completely 
+2015-02-06 15:21:51,164 INFO  [Log] Clicking on Webelement btn_AddToCart 
+2015-02-06 15:21:59,926 INFO  [Log] Wait for page load completely 
+2015-02-06 15:22:09,932 INFO  [Log] Clicking on Webelement btn_Checkout 
+2015-02-06 15:22:10,028 INFO  [Log] Wait for page load completely 
+2015-02-06 15:22:20,034 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 15:22:20,162 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 15:22:20,263 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 15:22:26,778 INFO  [Log] Wait for page load completely 
+2015-02-06 15:22:36,787 INFO  [Log] selecting the option_Address 
+2015-02-06 15:22:36,906 INFO  [Log] Wait for page load completely 
+2015-02-06 15:22:46,919 INFO  [Log] selecting the option_Ship 
+2015-02-06 15:22:47,005 INFO  [Log] Wait for page load completely 
+2015-02-06 15:22:52,009 INFO  [Log] Clicking on Webelement txtbx_Datepicker 
+2015-02-06 15:22:52,125 INFO  [Log] selecting the date 
+2015-02-06 15:22:52,177 INFO  [Log] Wait for page load completely 
+2015-02-06 15:22:57,184 INFO  [Log] Closing the browser 
+2015-02-06 15:22:58,418 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 15:22:58,418 INFO  [Log] X 
+2015-02-06 15:22:58,418 INFO  [Log] X 
+2015-02-06 15:22:58,419 INFO  [Log] X 
+2015-02-06 15:22:58,419 INFO  [Log] X 
+2015-02-06 15:31:24,820 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:31:24,820 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:31:24,820 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-06 15:31:24,821 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:31:24,821 INFO  [Log] **************************************************************************************** 
+2015-02-06 15:31:24,821 INFO  [Log] Opening Browser 
+2015-02-06 15:31:28,892 INFO  [Log] Chrome browser started 
+2015-02-06 15:31:28,931 INFO  [Log] Navigating to URL 
+2015-02-06 15:31:41,726 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-06 15:31:43,461 INFO  [Log] Wait for page load completely 
+2015-02-06 15:31:48,496 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-06 15:31:48,647 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-06 15:31:48,774 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-06 15:31:52,127 INFO  [Log] Wait for page load completely 
+2015-02-06 15:31:57,136 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-06 15:32:11,338 INFO  [Log] Wait for page load completely 
+2015-02-06 15:32:16,345 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-06 15:32:16,422 INFO  [Log] Wait for page load completely 
+2015-02-06 15:32:21,433 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-06 15:32:21,433 INFO  [Log] X 
+2015-02-06 15:32:21,433 INFO  [Log] X 
+2015-02-06 15:32:21,433 INFO  [Log] X 
+2015-02-06 15:32:21,433 INFO  [Log] X 
+2015-02-17 16:47:52,305 INFO  [Log] **************************************************************************************** 
+2015-02-17 16:47:52,305 INFO  [Log] **************************************************************************************** 
+2015-02-17 16:47:52,305 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 16:47:52,305 INFO  [Log] **************************************************************************************** 
+2015-02-17 16:47:52,305 INFO  [Log] **************************************************************************************** 
+2015-02-17 16:47:52,306 INFO  [Log] Opening Browser 
+2015-02-17 16:47:57,580 INFO  [Log] Chrome browser started 
+2015-02-17 16:47:57,643 INFO  [Log] Navigating to URL 
+2015-02-17 16:48:11,875 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 16:48:13,851 INFO  [Log] Wait for page load completely 
+2015-02-17 16:48:18,885 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 16:48:25,390 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 16:48:25,500 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 16:48:32,776 INFO  [Log] Wait for page load completely 
+2015-02-17 16:48:37,803 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 16:48:39,550 INFO  [Log] Wait for page load completely 
+2015-02-17 16:48:44,557 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 16:48:54,589 ERROR [Log] Not able to click --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: 5bc8731c5c69c5695a1369513fe7abce
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir8644_1450}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 16:48:54,604 INFO  [Log] Closing the browser 
+2015-02-17 16:48:55,831 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 16:48:55,831 INFO  [Log] X 
+2015-02-17 16:48:55,831 INFO  [Log] X 
+2015-02-17 16:48:55,831 INFO  [Log] X 
+2015-02-17 16:48:55,831 INFO  [Log] X 
+2015-02-17 17:09:57,807 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:09:57,807 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:09:57,807 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 17:09:57,807 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:09:57,807 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:09:57,807 INFO  [Log] Opening Browser 
+2015-02-17 17:10:01,424 INFO  [Log] Chrome browser started 
+2015-02-17 17:10:01,463 INFO  [Log] Navigating to URL 
+2015-02-17 17:10:14,913 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 17:10:16,072 INFO  [Log] Wait for page load completely 
+2015-02-17 17:10:21,105 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 17:10:27,026 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 17:10:27,133 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 17:10:31,099 INFO  [Log] Wait for page load completely 
+2015-02-17 17:10:36,122 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 17:10:37,970 INFO  [Log] Wait for page load completely 
+2015-02-17 17:10:47,985 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 17:10:50,947 INFO  [Log] Wait for page load completely 
+2015-02-17 17:11:00,975 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 17:11:00,975 INFO  [Log] X 
+2015-02-17 17:11:00,975 INFO  [Log] X 
+2015-02-17 17:11:00,975 INFO  [Log] X 
+2015-02-17 17:11:00,975 INFO  [Log] X 
+2015-02-17 17:17:33,330 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:17:33,330 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:17:33,330 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 17:17:33,330 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:17:33,330 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:17:33,331 INFO  [Log] Opening Browser 
+2015-02-17 17:17:38,537 INFO  [Log] Chrome browser started 
+2015-02-17 17:17:38,579 INFO  [Log] Navigating to URL 
+2015-02-17 17:17:51,714 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 17:17:55,192 INFO  [Log] Wait for page load completely 
+2015-02-17 17:18:00,225 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 17:18:00,354 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 17:18:00,464 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 17:18:03,531 INFO  [Log] Wait for page load completely 
+2015-02-17 17:18:08,542 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 17:18:14,835 INFO  [Log] Wait for page load completely 
+2015-02-17 17:18:24,850 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 17:18:24,936 INFO  [Log] Wait for page load completely 
+2015-02-17 17:18:34,962 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 17:18:34,962 INFO  [Log] X 
+2015-02-17 17:18:34,962 INFO  [Log] X 
+2015-02-17 17:18:34,962 INFO  [Log] X 
+2015-02-17 17:18:34,962 INFO  [Log] X 
+2015-02-17 17:40:27,651 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:40:27,651 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:40:27,651 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 17:40:27,651 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:40:27,651 INFO  [Log] **************************************************************************************** 
+2015-02-17 17:40:27,651 INFO  [Log] Opening Browser 
+2015-02-17 17:40:32,045 INFO  [Log] Chrome browser started 
+2015-02-17 17:40:32,089 INFO  [Log] Navigating to URL 
+2015-02-17 17:40:52,923 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 17:40:55,024 INFO  [Log] Wait for page load completely 
+2015-02-17 17:41:00,061 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 17:41:00,394 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 17:41:00,517 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 17:41:06,174 INFO  [Log] Wait for page load completely 
+2015-02-17 17:41:11,196 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 17:42:31,641 INFO  [Log] Wait for page load completely 
+2015-02-17 17:42:41,656 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 17:42:41,744 INFO  [Log] Wait for page load completely 
+2015-02-17 17:42:54,110 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 17:42:54,110 INFO  [Log] X 
+2015-02-17 17:42:54,110 INFO  [Log] X 
+2015-02-17 17:42:54,110 INFO  [Log] X 
+2015-02-17 17:42:54,110 INFO  [Log] X 
+2015-02-17 18:06:06,224 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:06:06,224 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:06:06,224 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 18:06:06,224 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:06:06,224 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:06:06,224 INFO  [Log] Opening Browser 
+2015-02-17 18:06:10,047 INFO  [Log] Chrome browser started 
+2015-02-17 18:06:10,089 INFO  [Log] Navigating to URL 
+2015-02-17 18:06:22,135 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 18:06:25,533 INFO  [Log] Wait for page load completely 
+2015-02-17 18:06:30,571 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 18:06:35,690 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 18:06:35,795 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 18:06:40,019 INFO  [Log] Wait for page load completely 
+2015-02-17 18:06:45,030 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 18:06:48,635 INFO  [Log] Wait for page load completely 
+2015-02-17 18:06:58,654 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 18:07:08,702 ERROR [Log] Not able to click --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: a6476d911120aba7fad44a254140e385
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir10832_15841}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 18:07:08,714 INFO  [Log] Closing the browser 
+2015-02-17 18:07:09,931 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 18:07:09,931 INFO  [Log] X 
+2015-02-17 18:07:09,931 INFO  [Log] X 
+2015-02-17 18:07:09,931 INFO  [Log] X 
+2015-02-17 18:07:09,931 INFO  [Log] X 
+2015-02-17 18:10:43,464 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:10:43,464 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:10:43,464 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 18:10:43,464 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:10:43,464 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:10:43,465 INFO  [Log] Opening Browser 
+2015-02-17 18:10:47,845 INFO  [Log] Chrome browser started 
+2015-02-17 18:10:47,885 INFO  [Log] Navigating to URL 
+2015-02-17 18:11:00,870 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 18:11:04,703 INFO  [Log] Wait for page load completely 
+2015-02-17 18:11:09,735 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 18:11:12,057 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 18:11:12,179 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 18:11:16,185 INFO  [Log] Wait for page load completely 
+2015-02-17 18:11:21,206 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 18:11:28,820 INFO  [Log] Wait for page load completely 
+2015-02-17 18:11:38,840 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 18:11:48,867 ERROR [Log] Not able to click --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: 97fd326effff578a9b10a21380705575
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir5320_15062}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 18:11:48,882 INFO  [Log] Closing the browser 
+2015-02-17 18:11:50,083 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 18:11:50,083 INFO  [Log] X 
+2015-02-17 18:11:50,083 INFO  [Log] X 
+2015-02-17 18:11:50,083 INFO  [Log] X 
+2015-02-17 18:11:50,083 INFO  [Log] X 
+2015-02-17 18:12:10,184 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:12:10,185 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:12:10,185 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 18:12:10,185 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:12:10,185 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:12:10,185 INFO  [Log] Opening Browser 
+2015-02-17 18:12:14,305 INFO  [Log] Chrome browser started 
+2015-02-17 18:12:14,348 INFO  [Log] Navigating to URL 
+2015-02-17 18:12:29,303 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 18:12:29,480 INFO  [Log] Wait for page load completely 
+2015-02-17 18:12:34,515 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 18:12:44,571 ERROR [Log] Not able to Enter txtbx_Username --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: 1c1af79aa6cbe8ac14bc46896bbd111c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir324_9287}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 18:12:44,601 INFO  [Log] Closing the browser 
+2015-02-17 18:12:45,788 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 18:12:45,788 INFO  [Log] X 
+2015-02-17 18:12:45,788 INFO  [Log] X 
+2015-02-17 18:12:45,788 INFO  [Log] X 
+2015-02-17 18:12:45,788 INFO  [Log] X 
+2015-02-17 18:24:46,772 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:24:46,772 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:24:46,772 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 18:24:46,772 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:24:46,772 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:24:46,772 INFO  [Log] Opening Browser 
+2015-02-17 18:24:52,190 INFO  [Log] Chrome browser started 
+2015-02-17 18:24:52,230 INFO  [Log] Navigating to URL 
+2015-02-17 18:25:57,746 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 18:26:04,853 INFO  [Log] Wait for page load completely 
+2015-02-17 18:26:09,886 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 18:26:19,917 ERROR [Log] Not able to Enter txtbx_Username --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: add4c6b1de65b3a599d01864728fd95f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir12232_31120}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 18:26:19,943 INFO  [Log] Closing the browser 
+2015-02-17 18:26:21,227 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 18:26:21,254 INFO  [Log] X 
+2015-02-17 18:26:21,254 INFO  [Log] X 
+2015-02-17 18:26:21,254 INFO  [Log] X 
+2015-02-17 18:26:21,254 INFO  [Log] X 
+2015-02-17 18:49:56,582 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:49:56,582 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:49:56,582 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 18:49:56,582 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:49:56,582 INFO  [Log] **************************************************************************************** 
+2015-02-17 18:49:56,582 INFO  [Log] Opening Browser 
+2015-02-17 18:50:04,101 INFO  [Log] Chrome browser started 
+2015-02-17 18:50:04,145 INFO  [Log] Navigating to URL 
+2015-02-17 18:50:20,592 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 18:50:25,588 INFO  [Log] Wait for page load completely 
+2015-02-17 18:50:30,604 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 18:50:40,643 ERROR [Log] Not able to Enter txtbx_Username --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: 7c68816b7a0a985fd471e97383696867
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir8632_6087}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 18:50:40,661 INFO  [Log] Closing the browser 
+2015-02-17 18:50:41,851 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 18:50:41,851 INFO  [Log] X 
+2015-02-17 18:50:41,851 INFO  [Log] X 
+2015-02-17 18:50:41,852 INFO  [Log] X 
+2015-02-17 18:50:41,852 INFO  [Log] X 
+2015-02-17 19:34:04,717 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:34:04,718 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:34:04,718 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 19:34:04,718 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:34:04,718 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:34:04,718 INFO  [Log] Opening Browser 
+2015-02-17 19:34:10,943 INFO  [Log] Chrome browser started 
+2015-02-17 19:34:10,983 INFO  [Log] Navigating to URL 
+2015-02-17 19:34:25,684 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 19:34:28,988 INFO  [Log] Wait for page load completely 
+2015-02-17 19:34:34,023 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 19:34:34,183 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 19:34:34,316 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 19:34:37,929 INFO  [Log] Wait for page load completely 
+2015-02-17 19:34:42,947 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 19:34:43,824 INFO  [Log] Wait for page load completely 
+2015-02-17 19:34:53,840 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 19:34:59,343 INFO  [Log] Wait for page load completely 
+2015-02-17 19:35:09,422 INFO  [Log] Clicking on Webelement btn_PrevPage 
+2015-02-17 19:35:09,494 INFO  [Log] Wait for page load completely 
+2015-02-17 19:35:19,585 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 19:35:19,586 INFO  [Log] X 
+2015-02-17 19:35:19,586 INFO  [Log] X 
+2015-02-17 19:35:19,586 INFO  [Log] X 
+2015-02-17 19:35:19,586 INFO  [Log] X 
+2015-02-17 19:40:38,955 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:40:38,955 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:40:38,956 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 19:40:38,956 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:40:38,956 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:40:38,956 INFO  [Log] Opening Browser 
+2015-02-17 19:40:42,247 INFO  [Log] Chrome browser started 
+2015-02-17 19:40:42,287 INFO  [Log] Navigating to URL 
+2015-02-17 19:40:57,153 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 19:41:00,255 INFO  [Log] Wait for page load completely 
+2015-02-17 19:41:05,287 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 19:41:06,818 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 19:41:06,926 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 19:41:13,623 INFO  [Log] Wait for page load completely 
+2015-02-17 19:41:18,634 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 19:41:25,088 INFO  [Log] Wait for page load completely 
+2015-02-17 19:41:35,105 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 19:41:45,134 ERROR [Log] Not able to click --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: de16f9bb081915d0e97046acf06c5156
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir6340_22522}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 19:41:45,141 INFO  [Log] Closing the browser 
+2015-02-17 19:41:46,324 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 19:41:46,324 INFO  [Log] X 
+2015-02-17 19:41:46,324 INFO  [Log] X 
+2015-02-17 19:41:46,324 INFO  [Log] X 
+2015-02-17 19:41:46,324 INFO  [Log] X 
+2015-02-17 19:42:59,922 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:42:59,922 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:42:59,922 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OrderHistory_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-02-17 19:42:59,922 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:42:59,922 INFO  [Log] **************************************************************************************** 
+2015-02-17 19:42:59,923 INFO  [Log] Opening Browser 
+2015-02-17 19:43:06,121 INFO  [Log] Chrome browser started 
+2015-02-17 19:43:06,162 INFO  [Log] Navigating to URL 
+2015-02-17 19:43:19,386 INFO  [Log] Clicking on Webelement txt_MyAccount 
+2015-02-17 19:43:21,517 INFO  [Log] Wait for page load completely 
+2015-02-17 19:43:26,552 INFO  [Log] Entering the text in txtbx_Username 
+2015-02-17 19:43:29,217 INFO  [Log] Entering the text in txtbx_Password 
+2015-02-17 19:43:29,336 INFO  [Log] Clicking on Webelement btn_Login 
+2015-02-17 19:43:36,231 INFO  [Log] Wait for page load completely 
+2015-02-17 19:43:41,251 INFO  [Log] Clicking on Webelement txt_MyOrder 
+2015-02-17 19:43:44,800 INFO  [Log] Wait for page load completely 
+2015-02-17 19:43:54,819 INFO  [Log] Clicking on Webelement btn_NextPage 
+2015-02-17 19:44:04,864 ERROR [Log] Not able to click --- no such element
+  (Session info: chrome=40.0.2214.111)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.41.0', revision: '3192d8a', time: '2014-03-27 17:18:15'
+System info: host: 'OEIS-D32', ip: '10.1.6.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_60'
+Session ID: 91595ee2ec73e5d65c2b9aaec0556b03
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ONKAR~1.NIM\AppData\Local\Temp\scoped_dir4460_10458}, rotatable=false, locationContextEnabled=true, version=40.0.2214.111, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-02-17 19:44:04,871 INFO  [Log] Closing the browser 
+2015-02-17 19:44:06,042 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-02-17 19:44:06,042 INFO  [Log] X 
+2015-02-17 19:44:06,042 INFO  [Log] X 
+2015-02-17 19:44:06,042 INFO  [Log] X 
+2015-02-17 19:44:06,042 INFO  [Log] X 

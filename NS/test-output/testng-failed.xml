@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Login Logout]" parallel="tests">
+  <parameter name="sBrowser" value="Chrome"/>
+  <test name="Registration-CHROME(failed)" parallel="tests">
+    <parameter name="sBrowser" value="Chrome"/>
+    <classes>
+      <class name="TestNG.Registration">
+        <methods>
+          <include name="setUp"/>
+          <include name="testPFRegistration"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNG.Registration -->
+    </classes>
+  </test> <!-- Registration-CHROME(failed) -->
+</suite> <!-- Failed suite [Login Logout] -->
