@@ -18,9 +18,9 @@ public class NewTest {
 	
 	@BeforeTest
 	  public void beforeTest() throws MalformedURLException {
-		//driver = new FirefoxDriver();
-		System.setProperty("webdriver.chrome.driver","D:\\workspaces\\chromedriver.exe");
-		driver=new ChromeDriver();
+		driver = new FirefoxDriver();
+		//System.setProperty("webdriver.chrome.driver","D:\\workspaces\\chromedriver.exe");
+		//driver=new ChromeDriver();
 		
 		/*
 		//FOR SELENIUM GRID
