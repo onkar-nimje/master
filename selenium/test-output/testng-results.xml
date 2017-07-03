@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="my sample suit" duration-ms="18875" started-at="2014-08-27T19:05:27Z" finished-at="2014-08-27T19:05:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18875" started-at="2014-08-27T19:05:27Z" finished-at="2014-08-27T19:05:46Z">
+      <class name="testcases.chrome">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testcases.chrome@64eff0]" name="test1" duration-ms="18844" started-at="2014-08-28T00:35:27Z" finished-at="2014-08-28T00:35:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testcases.chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- my sample suit -->
+</testng-results>
