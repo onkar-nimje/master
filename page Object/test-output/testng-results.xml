@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25734" started-at="2014-10-10T13:24:47Z" finished-at="2014-10-10T13:25:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25734" started-at="2014-10-10T13:24:47Z" finished-at="2014-10-10T13:25:13Z">
+      <class name="webdriverTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:webdriverTest@1a4536d]" name="setup" is-config="true" duration-ms="14047" started-at="2014-10-10T18:54:47Z" finished-at="2014-10-10T18:55:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:webdriverTest@1a4536d]" name="login1" duration-ms="2937" started-at="2014-10-10T18:55:01Z" data-provider="dataLogin1" finished-at="2014-10-10T18:55:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[omnimje1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jawaharnagar1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:webdriverTest@1a4536d]" name="login1" duration-ms="2047" started-at="2014-10-10T18:55:04Z" data-provider="dataLogin1" finished-at="2014-10-10T18:55:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[omnimje2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jawaharnagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="login2(RegistrationData)[pri:0, instance:webdriverTest@1a4536d]" name="login2" duration-ms="2438" started-at="2014-10-10T18:55:06Z" data-provider="dataLogin2" finished-at="2014-10-10T18:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RegistrationData@11a5d31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:webdriverTest@1a4536d]" name="test1" duration-ms="2515" started-at="2014-10-10T18:55:09Z" finished-at="2014-10-10T18:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:webdriverTest@1a4536d]" name="tearDown" is-config="true" duration-ms="1719" started-at="2014-10-10T18:55:11Z" finished-at="2014-10-10T18:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webdriverTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
