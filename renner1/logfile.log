@@ -1,0 +1,582 @@
+
+2014-12-23 18:24:37,638 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:24:37,638 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:24:37,638 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 18:24:37,638 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:24:37,638 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:24:37,778 INFO  [Log] Excel sheet opened 
+2014-12-23 18:24:37,778 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 18:24:40,389 INFO  [Log] New driver instantiated 
+2014-12-23 18:24:40,399 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 18:25:00,736 INFO  [Log] Web application launched successfully 
+2014-12-23 18:25:08,092 INFO  [Log] Masculino link is found on the Home Page 
+2014-12-23 18:25:08,144 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 18:30:19,047 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:30:19,047 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:30:19,047 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 18:30:19,047 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:30:19,047 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:30:19,187 INFO  [Log] Excel sheet opened 
+2014-12-23 18:30:19,187 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 18:30:22,072 INFO  [Log] New driver instantiated 
+2014-12-23 18:30:22,082 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 18:30:44,878 INFO  [Log] Web application launched successfully 
+2014-12-23 18:30:46,651 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 18:32:12,843 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:32:12,843 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:32:12,843 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 18:32:12,843 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:32:12,843 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:32:12,973 INFO  [Log] Excel sheet opened 
+2014-12-23 18:32:12,973 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 18:32:15,077 INFO  [Log] New driver instantiated 
+2014-12-23 18:32:15,077 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 18:32:37,040 INFO  [Log] Web application launched successfully 
+2014-12-23 18:32:44,184 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 18:34:47,909 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:34:47,909 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:34:47,909 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 18:34:47,909 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:34:47,909 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:34:48,061 INFO  [Log] Excel sheet opened 
+2014-12-23 18:34:48,061 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 18:34:50,203 INFO  [Log] New driver instantiated 
+2014-12-23 18:34:50,213 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 18:35:12,697 INFO  [Log] Web application launched successfully 
+2014-12-23 18:35:14,786 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 18:36:14,848 INFO  [Log] add to cart button not found on product listing page 
+2014-12-23 18:38:24,078 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:38:24,078 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:38:24,078 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 18:38:24,078 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:38:24,078 INFO  [Log] **************************************************************************************** 
+2014-12-23 18:38:24,218 INFO  [Log] Excel sheet opened 
+2014-12-23 18:38:24,218 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 18:38:26,810 INFO  [Log] New driver instantiated 
+2014-12-23 18:38:26,810 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 18:38:48,805 INFO  [Log] Web application launched successfully 
+2014-12-23 18:39:10,122 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 18:40:10,202 INFO  [Log] add to cart button not found on product listing page 
+2014-12-23 19:08:43,706 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:08:43,706 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:08:43,706 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 19:08:43,706 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:08:43,706 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:08:43,883 INFO  [Log] Excel sheet opened 
+2014-12-23 19:08:43,884 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 19:08:47,891 INFO  [Log] New driver instantiated 
+2014-12-23 19:08:47,894 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 19:09:12,823 INFO  [Log] Web application launched successfully 
+2014-12-23 19:09:18,184 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 19:09:39,771 INFO  [Log] Product found on PLP 
+2014-12-23 19:11:39,913 INFO  [Log] add to cart button not found on product listing page 
+2014-12-23 19:20:46,682 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:20:46,682 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:20:46,682 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 19:20:46,682 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:20:46,682 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:20:46,836 INFO  [Log] Excel sheet opened 
+2014-12-23 19:20:46,836 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 19:20:48,970 INFO  [Log] New driver instantiated 
+2014-12-23 19:20:48,973 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 19:21:10,487 INFO  [Log] Web application launched successfully 
+2014-12-23 19:21:14,283 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 19:24:24,164 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:24:24,165 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:24:24,165 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 19:24:24,165 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:24:24,165 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:24:24,340 INFO  [Log] Excel sheet opened 
+2014-12-23 19:24:24,340 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 19:24:29,619 INFO  [Log] New driver instantiated 
+2014-12-23 19:24:29,623 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 19:25:04,326 INFO  [Log] Web application launched successfully 
+2014-12-23 19:25:16,917 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 19:25:32,367 INFO  [Log] clicked on add to cart button from product listing page 
+2014-12-23 19:30:12,956 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:30:12,957 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:30:12,957 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 19:30:12,957 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:30:12,957 INFO  [Log] **************************************************************************************** 
+2014-12-23 19:30:13,123 INFO  [Log] Excel sheet opened 
+2014-12-23 19:30:13,123 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 19:30:15,243 INFO  [Log] New driver instantiated 
+2014-12-23 19:30:15,247 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 19:30:33,309 INFO  [Log] Web application launched successfully 
+2014-12-23 19:30:37,320 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 19:30:48,739 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:00:44,345 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:00:44,345 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:00:44,345 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 20:00:44,345 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:00:44,345 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:00:44,494 INFO  [Log] Excel sheet opened 
+2014-12-23 20:00:44,494 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 20:00:47,408 INFO  [Log] New driver instantiated 
+2014-12-23 20:00:47,414 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 20:01:17,267 INFO  [Log] Web application launched successfully 
+2014-12-23 20:01:25,628 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 20:01:54,476 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:01:54,543 INFO  [Log] product color found on PDP 
+2014-12-23 20:01:54,570 INFO  [Log] product colour clicked from PDP 
+2014-12-23 20:01:54,612 INFO  [Log] product size found on PDP 
+2014-12-23 20:01:54,639 INFO  [Log] product size clicked from PDP 
+2014-12-23 20:01:54,679 INFO  [Log] add to cart button found on PDP 
+2014-12-23 20:01:54,706 INFO  [Log] clicked on add to cart from PDP 
+2014-12-23 20:04:38,242 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:04:38,243 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:04:38,243 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 20:04:38,243 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:04:38,243 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:04:38,387 INFO  [Log] Excel sheet opened 
+2014-12-23 20:04:38,387 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 20:04:41,002 INFO  [Log] New driver instantiated 
+2014-12-23 20:04:41,006 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 20:05:03,316 INFO  [Log] Web application launched successfully 
+2014-12-23 20:05:11,019 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 20:05:12,800 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:05:13,011 INFO  [Log] product color found on PDP 
+2014-12-23 20:05:13,066 INFO  [Log] product colour clicked from PDP 
+2014-12-23 20:05:13,108 INFO  [Log] product size found on PDP 
+2014-12-23 20:05:13,134 INFO  [Log] product size clicked from PDP 
+2014-12-23 20:05:13,176 INFO  [Log] add to cart button found on PDP 
+2014-12-23 20:05:13,232 INFO  [Log] clicked on add to cart from PDP 
+2014-12-23 20:09:00,776 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:09:00,776 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:09:00,776 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 20:09:00,776 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:09:00,776 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:09:00,923 INFO  [Log] Excel sheet opened 
+2014-12-23 20:09:00,923 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 20:09:03,044 INFO  [Log] New driver instantiated 
+2014-12-23 20:09:03,047 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 20:09:19,501 INFO  [Log] Web application launched successfully 
+2014-12-23 20:09:25,189 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 20:09:43,074 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:09:45,064 INFO  [Log] product color found on PDP 
+2014-12-23 20:09:45,093 INFO  [Log] product colour clicked from PDP 
+2014-12-23 20:09:45,135 INFO  [Log] product size found on PDP 
+2014-12-23 20:09:45,161 INFO  [Log] product size clicked from PDP 
+2014-12-23 20:09:45,205 INFO  [Log] add to cart button found on PDP 
+2014-12-23 20:09:45,232 INFO  [Log] clicked on add to cart from PDP 
+2014-12-23 20:11:22,911 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:11:22,912 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:11:22,912 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 20:11:22,912 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:11:22,912 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:11:23,062 INFO  [Log] Excel sheet opened 
+2014-12-23 20:11:23,062 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 20:11:25,197 INFO  [Log] New driver instantiated 
+2014-12-23 20:11:25,201 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 20:11:53,515 INFO  [Log] Web application launched successfully 
+2014-12-23 20:11:55,668 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 20:12:06,389 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:12:06,555 INFO  [Log] product color found on PDP 
+2014-12-23 20:12:06,584 INFO  [Log] product colour clicked from PDP 
+2014-12-23 20:12:11,724 INFO  [Log] product size not found on PDP 
+2014-12-23 20:16:17,167 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:16:17,167 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:16:17,167 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 20:16:17,167 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:16:17,167 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:16:17,307 INFO  [Log] Excel sheet opened 
+2014-12-23 20:16:17,307 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 20:16:20,454 INFO  [Log] New driver instantiated 
+2014-12-23 20:16:20,464 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 20:16:36,947 INFO  [Log] Web application launched successfully 
+2014-12-23 20:16:45,312 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 20:16:54,975 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:16:55,058 INFO  [Log] product color found on PDP 
+2014-12-23 20:16:55,087 INFO  [Log] product colour clicked from PDP 
+2014-12-23 20:16:59,223 INFO  [Log] product size not found on PDP 
+2014-12-23 20:26:21,413 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:26:21,414 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:26:21,414 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-23 20:26:21,414 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:26:21,414 INFO  [Log] **************************************************************************************** 
+2014-12-23 20:26:21,569 INFO  [Log] Excel sheet opened 
+2014-12-23 20:26:21,569 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-23 20:26:23,691 INFO  [Log] New driver instantiated 
+2014-12-23 20:26:23,695 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-23 20:26:36,423 INFO  [Log] Web application launched successfully 
+2014-12-23 20:26:38,720 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-23 20:26:43,827 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-23 20:26:44,043 INFO  [Log] product color found on PDP 
+2014-12-23 20:26:44,084 INFO  [Log] product colour clicked from PDP 
+2014-12-23 20:26:44,130 INFO  [Log] product size found on PDP 
+2014-12-23 20:26:44,156 INFO  [Log] product size clicked from PDP 
+2014-12-23 20:26:44,203 INFO  [Log] add to cart button found on PDP 
+2014-12-23 20:26:44,231 INFO  [Log] clicked on add to cart from PDP 
+2014-12-24 17:36:03,044 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:36:03,044 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:36:03,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-24 17:36:03,044 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:36:03,044 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:36:03,195 INFO  [Log] Excel sheet opened 
+2014-12-24 17:36:03,195 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-24 17:36:07,408 INFO  [Log] New driver instantiated 
+2014-12-24 17:36:07,408 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-24 17:36:18,967 INFO  [Log] Web application launched successfully 
+2014-12-24 17:36:21,505 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-24 17:36:26,605 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-24 17:36:27,325 INFO  [Log] product color found on PDP 
+2014-12-24 17:36:27,325 INFO  [Log] product colour clicked from PDP 
+2014-12-24 17:36:27,926 INFO  [Log] product size not found on PDP 
+2014-12-24 17:38:10,027 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:38:10,028 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:38:10,028 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-24 17:38:10,028 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:38:10,028 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:38:10,170 INFO  [Log] Excel sheet opened 
+2014-12-24 17:38:10,171 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-24 17:38:14,142 INFO  [Log] New driver instantiated 
+2014-12-24 17:38:14,152 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-24 17:38:25,393 INFO  [Log] Web application launched successfully 
+2014-12-24 17:38:27,737 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-24 17:38:33,024 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-24 17:38:33,320 INFO  [Log] product color found on PDP 
+2014-12-24 17:38:33,320 INFO  [Log] product colour clicked from PDP 
+2014-12-24 17:38:33,362 INFO  [Log] product size found on PDP 
+2014-12-24 17:38:33,362 INFO  [Log] product size clicked from PDP 
+2014-12-24 17:38:33,409 INFO  [Log] add to cart button found on PDP 
+2014-12-24 17:38:33,435 INFO  [Log] clicked on add to cart from PDP 
+2014-12-24 17:41:31,408 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:41:31,408 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:41:31,408 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-24 17:41:31,408 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:41:31,408 INFO  [Log] **************************************************************************************** 
+2014-12-24 17:41:31,548 INFO  [Log] Excel sheet opened 
+2014-12-24 17:41:31,548 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-24 17:41:35,253 INFO  [Log] New driver instantiated 
+2014-12-24 17:41:35,253 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-24 17:41:48,753 INFO  [Log] Web application launched successfully 
+2014-12-24 17:41:50,435 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-24 17:41:55,144 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-24 17:41:55,429 INFO  [Log] product color found on PDP 
+2014-12-24 17:41:55,429 INFO  [Log] product colour clicked from PDP 
+2014-12-24 17:41:55,476 INFO  [Log] product size found on PDP 
+2014-12-24 17:41:55,476 INFO  [Log] product size clicked from PDP 
+2014-12-24 17:42:05,542 INFO  [Log] add to cart button found on PDP 
+2014-12-24 17:42:09,016 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 12:45:05,479 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:45:05,479 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:45:05,479 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 12:45:05,479 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:45:05,479 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:45:05,639 INFO  [Log] Excel sheet opened 
+2014-12-26 12:45:05,639 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 12:45:13,023 INFO  [Log] New driver instantiated 
+2014-12-26 12:45:13,023 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 12:45:35,271 INFO  [Log] Web application launched successfully 
+2014-12-26 12:45:38,851 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 12:51:51,415 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:51:51,415 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:51:51,415 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 12:51:51,415 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:51:51,415 INFO  [Log] **************************************************************************************** 
+2014-12-26 12:51:51,555 INFO  [Log] Excel sheet opened 
+2014-12-26 12:51:51,555 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 12:51:55,179 INFO  [Log] New driver instantiated 
+2014-12-26 12:51:55,189 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 12:52:06,591 INFO  [Log] Web application launched successfully 
+2014-12-26 12:52:12,529 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 13:30:52,603 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:30:52,603 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:30:52,603 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 13:30:52,603 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:30:52,603 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:30:52,753 INFO  [Log] Excel sheet opened 
+2014-12-26 13:30:52,753 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 13:30:54,438 INFO  [Log] New driver instantiated 
+2014-12-26 13:30:54,446 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 13:31:08,912 INFO  [Log] Web application launched successfully 
+2014-12-26 13:31:13,634 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 13:33:53,341 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:33:53,341 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:33:53,341 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 13:33:53,341 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:33:53,341 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:33:53,501 INFO  [Log] Excel sheet opened 
+2014-12-26 13:33:53,501 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 13:33:55,162 INFO  [Log] New driver instantiated 
+2014-12-26 13:33:55,184 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 13:34:09,203 INFO  [Log] Web application launched successfully 
+2014-12-26 13:34:12,691 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 13:34:13,193 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 13:35:13,213 INFO  [Log] product color not found on PDP 
+2014-12-26 13:40:57,658 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:40:57,658 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:40:57,658 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 13:40:57,658 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:40:57,658 INFO  [Log] **************************************************************************************** 
+2014-12-26 13:40:57,808 INFO  [Log] Excel sheet opened 
+2014-12-26 13:40:57,808 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 13:41:02,066 INFO  [Log] New driver instantiated 
+2014-12-26 13:41:02,066 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 13:41:13,803 INFO  [Log] Web application launched successfully 
+2014-12-26 13:41:15,596 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 13:41:16,362 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 13:42:16,395 INFO  [Log] product color not found on PDP 
+2014-12-26 15:45:18,450 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:45:18,450 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:45:18,450 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 15:45:18,450 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:45:18,450 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:45:18,590 INFO  [Log] Excel sheet opened 
+2014-12-26 15:45:18,590 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 15:45:23,173 INFO  [Log] New driver instantiated 
+2014-12-26 15:45:23,183 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 15:45:34,403 INFO  [Log] Web application launched successfully 
+2014-12-26 15:45:35,427 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 15:45:36,171 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 15:45:56,294 INFO  [Log] product color found on PDP 
+2014-12-26 15:45:56,294 INFO  [Log] product colour clicked from PDP 
+2014-12-26 15:45:56,367 INFO  [Log] product size found on PDP 
+2014-12-26 15:45:56,367 INFO  [Log] product size clicked from PDP 
+2014-12-26 15:46:06,446 INFO  [Log] add to cart button found on PDP 
+2014-12-26 15:46:06,486 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 15:46:16,503 INFO  [Log] BUY FINAL button not found on cart page 
+2014-12-26 15:51:09,601 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:51:09,601 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:51:09,601 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 15:51:09,601 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:51:09,601 INFO  [Log] **************************************************************************************** 
+2014-12-26 15:51:09,751 INFO  [Log] Excel sheet opened 
+2014-12-26 15:51:09,751 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 15:51:13,445 INFO  [Log] New driver instantiated 
+2014-12-26 15:51:13,455 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 15:51:23,879 INFO  [Log] Web application launched successfully 
+2014-12-26 15:51:27,440 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 15:51:28,130 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 15:51:48,280 INFO  [Log] product color found on PDP 
+2014-12-26 15:51:48,280 INFO  [Log] product colour clicked from PDP 
+2014-12-26 15:51:58,346 INFO  [Log] product size found on PDP 
+2014-12-26 15:51:58,346 INFO  [Log] product size clicked from PDP 
+2014-12-26 15:52:08,428 INFO  [Log] add to cart button found on PDP 
+2014-12-26 15:52:08,458 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 15:52:19,037 INFO  [Log] BUY FINAL button not found on cart page 
+2014-12-26 16:00:05,061 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:00:05,061 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:00:05,061 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 16:00:05,061 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:00:05,061 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:00:05,211 INFO  [Log] Excel sheet opened 
+2014-12-26 16:00:05,211 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 16:00:08,851 INFO  [Log] New driver instantiated 
+2014-12-26 16:00:08,851 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 16:00:19,696 INFO  [Log] Web application launched successfully 
+2014-12-26 16:00:22,980 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 16:00:24,446 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 16:00:44,544 INFO  [Log] product color found on PDP 
+2014-12-26 16:00:44,545 INFO  [Log] product colour clicked from PDP 
+2014-12-26 16:00:54,630 INFO  [Log] product size found on PDP 
+2014-12-26 16:00:54,630 INFO  [Log] product size clicked from PDP 
+2014-12-26 16:01:04,717 INFO  [Log] add to cart button found on PDP 
+2014-12-26 16:01:17,547 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 16:01:18,182 INFO  [Log] BUY FINAL button found on cart page 
+2014-12-26 16:01:18,217 INFO  [Log] clicked on BUY FINAL 
+2014-12-26 16:01:38,272 INFO  [Log] email text box found for login 
+2014-12-26 16:01:38,342 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2014-12-26 16:01:38,355 INFO  [Log] password text box found for login 
+2014-12-26 16:01:38,427 INFO  [Log] omnimje  entered into the box in login page 
+2014-12-26 16:01:38,439 INFO  [Log] Login button found in login page 
+2014-12-26 16:01:41,782 INFO  [Log] Click action is performed on Submit button 
+2014-12-26 16:02:01,838 INFO  [Log]  Address selection button not found on address selection page 
+2014-12-26 16:11:39,585 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:11:39,585 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:11:39,585 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 16:11:39,585 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:11:39,585 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:11:39,735 INFO  [Log] Excel sheet opened 
+2014-12-26 16:11:39,735 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 16:11:44,760 INFO  [Log] New driver instantiated 
+2014-12-26 16:11:44,770 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 16:12:06,298 INFO  [Log] Web application launched successfully 
+2014-12-26 16:12:07,194 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 16:12:15,039 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 16:12:35,145 INFO  [Log] product color found on PDP 
+2014-12-26 16:12:35,145 INFO  [Log] product colour clicked from PDP 
+2014-12-26 16:12:45,226 INFO  [Log] product size found on PDP 
+2014-12-26 16:12:45,226 INFO  [Log] product size clicked from PDP 
+2014-12-26 16:12:55,293 INFO  [Log] add to cart button found on PDP 
+2014-12-26 16:13:00,055 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 16:13:10,102 INFO  [Log] BUY FINAL button not found on cart page 
+2014-12-26 16:15:29,409 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:15:29,409 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:15:29,409 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 16:15:29,409 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:15:29,409 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:15:29,559 INFO  [Log] Excel sheet opened 
+2014-12-26 16:15:29,559 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 16:15:46,436 INFO  [Log] New driver instantiated 
+2014-12-26 16:15:46,436 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 16:16:00,266 INFO  [Log] Web application launched successfully 
+2014-12-26 16:16:04,030 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 16:16:06,681 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 16:16:26,795 INFO  [Log] product color found on PDP 
+2014-12-26 16:16:26,795 INFO  [Log] product colour clicked from PDP 
+2014-12-26 16:16:36,851 INFO  [Log] product size found on PDP 
+2014-12-26 16:16:36,851 INFO  [Log] product size clicked from PDP 
+2014-12-26 16:16:46,917 INFO  [Log] add to cart button found on PDP 
+2014-12-26 16:17:02,250 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 16:17:22,281 INFO  [Log] BUY FINAL button found on cart page 
+2014-12-26 16:17:22,330 INFO  [Log] clicked on BUY FINAL 
+2014-12-26 16:17:42,400 INFO  [Log] email text box found for login 
+2014-12-26 16:17:42,462 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2014-12-26 16:17:42,474 INFO  [Log] password text box found for login 
+2014-12-26 16:17:42,530 INFO  [Log] omnimje  entered into the box in login page 
+2014-12-26 16:17:42,542 INFO  [Log] Login button found in login page 
+2014-12-26 16:17:46,865 INFO  [Log] Click action is performed on Submit button 
+2014-12-26 16:17:56,930 INFO  [Log]  Address selection button found on address selection page 
+2014-12-26 16:17:56,930 INFO  [Log] address selected from address selection page 
+2014-12-26 16:18:07,004 INFO  [Log] Clicked on shipping methode from address selection page 
+2014-12-26 16:18:17,057 INFO  [Log] Payment Method found on address page 
+2014-12-26 16:18:17,057 INFO  [Log] Payment method selected from address page 
+2014-12-26 16:53:58,155 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:53:58,155 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:53:58,155 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-26 16:53:58,155 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:53:58,155 INFO  [Log] **************************************************************************************** 
+2014-12-26 16:53:58,295 INFO  [Log] Excel sheet opened 
+2014-12-26 16:53:58,295 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-26 16:54:01,308 INFO  [Log] New driver instantiated 
+2014-12-26 16:54:01,308 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-26 16:54:13,683 INFO  [Log] Web application launched successfully 
+2014-12-26 16:54:17,367 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-26 16:54:17,603 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-26 16:54:37,695 INFO  [Log] product color found on PDP 
+2014-12-26 16:54:37,695 INFO  [Log] product colour clicked from PDP 
+2014-12-26 16:54:47,772 INFO  [Log] product size found on PDP 
+2014-12-26 16:54:47,772 INFO  [Log] product size clicked from PDP 
+2014-12-26 16:54:57,848 INFO  [Log] add to cart button found on PDP 
+2014-12-26 16:54:58,079 INFO  [Log] clicked on add to cart from PDP 
+2014-12-26 16:55:18,129 INFO  [Log] BUY FINAL button found on cart page 
+2014-12-26 16:55:18,207 INFO  [Log] clicked on BUY FINAL 
+2014-12-26 16:55:38,270 INFO  [Log] email text box found for login 
+2014-12-26 16:55:38,330 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2014-12-26 16:55:38,340 INFO  [Log] password text box found for login 
+2014-12-26 16:55:38,402 INFO  [Log] omnimje  entered into the box in login page 
+2014-12-26 16:55:38,412 INFO  [Log] Login button found in login page 
+2014-12-26 16:55:45,464 INFO  [Log] Click action is performed on Submit button 
+2014-12-26 16:55:55,544 INFO  [Log]  Address selection button found on address selection page 
+2014-12-26 16:55:55,544 INFO  [Log] address selected from address selection page 
+2014-12-26 16:56:05,604 INFO  [Log] Clicked on shipping methode from address selection page 
+2014-12-26 16:56:15,684 INFO  [Log] Payment Method payCreditCard found on address page 
+2014-12-26 16:56:15,684 INFO  [Log] Payment method selected from address page 
+2014-12-29 12:40:01,478 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:40:01,478 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:40:01,478 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-29 12:40:01,478 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:40:01,478 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:40:01,618 INFO  [Log] Excel sheet opened 
+2014-12-29 12:40:01,618 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-29 12:40:06,863 INFO  [Log] New driver instantiated 
+2014-12-29 12:40:06,873 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-29 12:40:33,432 INFO  [Log] Web application launched successfully 
+2014-12-29 12:40:36,193 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-29 12:40:39,543 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-29 12:40:59,648 INFO  [Log] product color found on PDP 
+2014-12-29 12:40:59,648 INFO  [Log] product colour clicked from PDP 
+2014-12-29 12:41:09,721 INFO  [Log] product size found on PDP 
+2014-12-29 12:41:09,721 INFO  [Log] product size clicked from PDP 
+2014-12-29 12:41:19,771 INFO  [Log] add to cart button found on PDP 
+2014-12-29 12:42:14,107 INFO  [Log] clicked on add to cart from PDP 
+2014-12-29 12:42:34,146 INFO  [Log] BUY FINAL button found on cart page 
+2014-12-29 12:42:34,186 INFO  [Log] clicked on BUY FINAL 
+2014-12-29 12:44:18,006 INFO  [Log] email text box found for login 
+2014-12-29 12:44:18,072 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2014-12-29 12:44:18,085 INFO  [Log] password text box found for login 
+2014-12-29 12:44:18,146 INFO  [Log] omnimje  entered into the box in login page 
+2014-12-29 12:44:18,159 INFO  [Log] Login button found in login page 
+2014-12-29 12:47:32,523 INFO  [Log] Click action is performed on Submit button 
+2014-12-29 12:47:42,604 INFO  [Log]  Address selection button found on address selection page 
+2014-12-29 12:47:42,604 INFO  [Log] address selected from address selection page 
+2014-12-29 12:50:32,064 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:50:32,064 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:50:32,064 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-29 12:50:32,064 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:50:32,064 INFO  [Log] **************************************************************************************** 
+2014-12-29 12:50:32,204 INFO  [Log] Excel sheet opened 
+2014-12-29 12:50:32,204 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-29 12:50:34,052 INFO  [Log] New driver instantiated 
+2014-12-29 12:50:34,062 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-29 12:50:52,849 INFO  [Log] Web application launched successfully 
+2014-12-29 12:50:57,341 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-29 12:50:59,444 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-29 12:51:19,527 INFO  [Log] product color found on PDP 
+2014-12-29 12:51:19,527 INFO  [Log] product colour clicked from PDP 
+2014-12-29 12:51:29,620 INFO  [Log] product size found on PDP 
+2014-12-29 12:51:29,620 INFO  [Log] product size clicked from PDP 
+2014-12-29 12:51:39,685 INFO  [Log] add to cart button found on PDP 
+2014-12-29 12:51:59,340 INFO  [Log] clicked on add to cart from PDP 
+2014-12-29 12:52:19,373 INFO  [Log] BUY FINAL button found on cart page 
+2014-12-29 12:52:19,403 INFO  [Log] clicked on BUY FINAL 
+2014-12-29 12:56:34,016 INFO  [Log] email text box found for login 
+2014-12-29 12:56:34,112 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2014-12-29 12:56:34,125 INFO  [Log] password text box found for login 
+2014-12-29 12:56:34,181 INFO  [Log] omnimje  entered into the box in login page 
+2014-12-29 12:56:34,194 INFO  [Log] Login button found in login page 
+2014-12-29 12:59:26,838 INFO  [Log] Click action is performed on Submit button 
+2014-12-29 12:59:36,916 INFO  [Log]  Address selection button found on address selection page 
+2014-12-29 12:59:36,916 INFO  [Log] address selected from address selection page 
+2014-12-29 13:04:20,198 INFO  [Log] **************************************************************************************** 
+2014-12-29 13:04:20,198 INFO  [Log] **************************************************************************************** 
+2014-12-29 13:04:20,198 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-12-29 13:04:20,198 INFO  [Log] **************************************************************************************** 
+2014-12-29 13:04:20,198 INFO  [Log] **************************************************************************************** 
+2014-12-29 13:04:20,338 INFO  [Log] Excel sheet opened 
+2014-12-29 13:04:20,338 INFO  [Log] Total number of Row used return as < 1 >. 
+2014-12-29 13:04:23,482 INFO  [Log] New driver instantiated 
+2014-12-29 13:04:23,492 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-12-29 13:04:38,030 INFO  [Log] Web application launched successfully 
+2014-12-29 13:04:39,828 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2014-12-29 13:04:40,839 INFO  [Log] clicked on more detail link from product listing page 
+2014-12-29 13:05:00,945 INFO  [Log] product color found on PDP 
+2014-12-29 13:05:00,945 INFO  [Log] product colour clicked from PDP 
+2014-12-29 13:05:11,054 INFO  [Log] product size found on PDP 
+2014-12-29 13:05:11,054 INFO  [Log] product size clicked from PDP 
+2014-12-29 13:05:21,140 INFO  [Log] add to cart button found on PDP 
+2014-12-29 13:05:36,959 INFO  [Log] clicked on add to cart from PDP 
+2014-12-29 13:05:57,005 INFO  [Log] BUY FINAL button found on cart page 
+2014-12-29 13:05:57,055 INFO  [Log] clicked on BUY FINAL 
+2014-12-29 13:06:17,180 INFO  [Log] email text box found for login 
+2014-12-29 13:06:17,257 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2014-12-29 13:06:17,270 INFO  [Log] password text box found for login 
+2014-12-29 13:06:17,326 INFO  [Log] omnimje  entered into the box in login page 
+2014-12-29 13:06:17,338 INFO  [Log] Login button found in login page 
+2014-12-29 13:06:25,272 INFO  [Log] Click action is performed on Submit button 
+2014-12-29 13:06:55,360 INFO  [Log]  Address selection button found on address selection page 
+2014-12-29 13:06:55,360 INFO  [Log] address selected from address selection page 
+2014-12-29 13:07:05,419 INFO  [Log] Clicked on shipping methode from address selection page 
+2014-12-29 13:07:25,445 INFO  [Log] Payment Method not found on address page 
+2015-01-06 15:41:03,094 INFO  [Log] **************************************************************************************** 
+2015-01-06 15:41:03,095 INFO  [Log] **************************************************************************************** 
+2015-01-06 15:41:03,095 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Checkout_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-01-06 15:41:03,095 INFO  [Log] **************************************************************************************** 
+2015-01-06 15:41:03,095 INFO  [Log] **************************************************************************************** 
+2015-01-06 15:41:03,245 INFO  [Log] Excel sheet opened 
+2015-01-06 15:41:03,245 INFO  [Log] Total number of Row used return as < 1 >. 
+2015-01-06 15:41:07,202 INFO  [Log] New driver instantiated 
+2015-01-06 15:41:07,206 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-01-06 15:41:17,041 INFO  [Log] Web application launched successfully 
+2015-01-06 15:41:20,536 INFO  [Log] Subcategory from Lancamentos category is selected from product listing page 
+2015-01-06 15:41:22,795 INFO  [Log] clicked on more detail link from product listing page 
+2015-01-06 15:41:45,108 INFO  [Log] product color found on PDP 
+2015-01-06 15:41:45,108 INFO  [Log] product colour clicked from PDP 
+2015-01-06 15:41:55,166 INFO  [Log] product size found on PDP 
+2015-01-06 15:41:55,166 INFO  [Log] product size clicked from PDP 
+2015-01-06 15:42:05,440 INFO  [Log] add to cart button found on PDP 
+2015-01-06 15:42:14,774 INFO  [Log] clicked on add to cart from PDP 
+2015-01-06 15:42:34,812 INFO  [Log] BUY FINAL button found on cart page 
+2015-01-06 15:42:34,859 INFO  [Log] clicked on BUY FINAL 
+2015-01-06 15:42:54,998 INFO  [Log] email text box found for login 
+2015-01-06 15:42:55,058 INFO  [Log] omnimje@gmail.com entered into the box in login page 
+2015-01-06 15:42:55,070 INFO  [Log] password text box found for login 
+2015-01-06 15:42:55,126 INFO  [Log] omnimje  entered into the box in login page 
+2015-01-06 15:42:55,138 INFO  [Log] Login button found in login page 
+2015-01-06 15:42:59,954 INFO  [Log] Click action is performed on Submit button 
+2015-01-06 15:43:30,055 INFO  [Log]  Address selection button found on address selection page 
+2015-01-06 15:43:30,055 INFO  [Log] address selected from address selection page 
+2015-01-06 15:43:40,140 INFO  [Log] Clicked on shipping methode from address selection page 
+2015-01-06 15:43:50,255 INFO  [Log] Payment Method payCreditCard found on address page 
+2015-01-06 15:43:50,255 INFO  [Log] Payment method selected from address page 

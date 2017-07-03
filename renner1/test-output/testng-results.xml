@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Product added to the cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[login for checkout successfull]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="167349" started-at="2015-01-06T10:11:02Z" finished-at="2015-01-06T10:13:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="167349" started-at="2015-01-06T10:11:02Z" finished-at="2015-01-06T10:13:50Z">
+      <class name="testCases.Checkout_01">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.Checkout_01@69cb7fc]" name="beforeMethod" is-config="true" duration-ms="14145" started-at="2015-01-06T15:41:02Z" finished-at="2015-01-06T15:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:testCases.Checkout_01@69cb7fc]" name="main" duration-ms="153194" started-at="2015-01-06T15:41:17Z" finished-at="2015-01-06T15:43:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Product added to the cart successfully]]>
+            </line>
+            <line>
+              <![CDATA[login for checkout successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.Checkout_01@69cb7fc]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-01-06T15:43:50Z" finished-at="2015-01-06T15:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.Checkout_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
