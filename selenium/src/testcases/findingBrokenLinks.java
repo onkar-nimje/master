@@ -13,7 +13,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class findingBrokenLinks {
-    //import 2 jar files mail.jar and activation.jar
+    
 	static String url = "";
 	static HttpURLConnection hu;
 	static int response;
