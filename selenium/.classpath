@@ -41,5 +41,7 @@
 	<classpathentry kind="lib" path="D:/workspaces/selenium-2.41.0/libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="D:/workspaces/selenium-2.41.0/selenium-java-2.41.0.jar"/>
 	<classpathentry kind="lib" path="D:/workspaces/selenium-2.41.0/selenium-java-2.41.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/workspaces/mailactivation/mail.jar"/>
+	<classpathentry kind="lib" path="D:/workspaces/mailactivation/activation.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
