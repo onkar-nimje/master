@@ -29,7 +29,7 @@ public class clearMyTrip {
 		driver.findElement(By.id("FromTag")).sendKeys("Mumbai");
 		driver.findElement(By.id("ToTag")).sendKeys("Delhi");
 		driver.findElement(By.id("DepartDate")).click();
-		driver.findElement(By.xpath("//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[2]/td[4]/a")).click();
+		driver.findElement(By.xpath("//*[@id='ui-datepicker-div']//td//a[text()='25']")).click();
 		driver.findElement(By.id("Adults")).click();
 		Select adult = new Select(driver.findElement(By.id("Adults")));
 		adult.selectByIndex(0);
@@ -78,10 +78,10 @@ public class clearMyTrip {
 		driver.get("https://www.cleartrip.com/");
 		
 		clrT.searchFlight();
-		clrT.searchResult();
-		clrT.flightDetail();
-		clrT.email();
-		clrT.travellers();
+		//clrT.searchResult();
+		//clrT.flightDetail();
+		//clrT.email();
+		//clrT.travellers();
 		
 
 	}
